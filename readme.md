@@ -1,6 +1,3 @@
-Here is the documentation (README.md) for your code:
-
----
 
 # Road width calculation using Vehicle Detection and Tracking with YOLOv8
 
