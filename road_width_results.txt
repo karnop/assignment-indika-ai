@@ -1,0 +1,8825 @@
+Frame 1:
+  Road 1: 35.04 meters
+  Road 2: 77.05 meters
+  Road 3: 0.00 meters
+
+Frame 2:
+  Road 1: 34.97 meters
+  Road 2: 77.87 meters
+  Road 3: 0.00 meters
+
+Frame 3:
+  Road 1: 34.93 meters
+  Road 2: 78.52 meters
+  Road 3: 0.00 meters
+
+Frame 4:
+  Road 1: 35.01 meters
+  Road 2: 78.80 meters
+  Road 3: 0.00 meters
+
+Frame 5:
+  Road 1: 34.87 meters
+  Road 2: 78.73 meters
+  Road 3: 0.00 meters
+
+Frame 6:
+  Road 1: 34.65 meters
+  Road 2: 79.02 meters
+  Road 3: 0.00 meters
+
+Frame 7:
+  Road 1: 34.60 meters
+  Road 2: 79.66 meters
+  Road 3: 0.00 meters
+
+Frame 8:
+  Road 1: 34.52 meters
+  Road 2: 79.84 meters
+  Road 3: 0.00 meters
+
+Frame 9:
+  Road 1: 34.70 meters
+  Road 2: 79.84 meters
+  Road 3: 0.00 meters
+
+Frame 10:
+  Road 1: 34.60 meters
+  Road 2: 80.86 meters
+  Road 3: 0.00 meters
+
+Frame 11:
+  Road 1: 34.43 meters
+  Road 2: 80.98 meters
+  Road 3: 0.00 meters
+
+Frame 12:
+  Road 1: 34.12 meters
+  Road 2: 81.39 meters
+  Road 3: 0.00 meters
+
+Frame 13:
+  Road 1: 34.35 meters
+  Road 2: 82.01 meters
+  Road 3: 0.00 meters
+
+Frame 14:
+  Road 1: 34.29 meters
+  Road 2: 81.51 meters
+  Road 3: 0.00 meters
+
+Frame 15:
+  Road 1: 34.18 meters
+  Road 2: 81.80 meters
+  Road 3: 0.00 meters
+
+Frame 16:
+  Road 1: 34.14 meters
+  Road 2: 81.82 meters
+  Road 3: 0.00 meters
+
+Frame 17:
+  Road 1: 34.23 meters
+  Road 2: 81.79 meters
+  Road 3: 0.00 meters
+
+Frame 18:
+  Road 1: 33.95 meters
+  Road 2: 82.32 meters
+  Road 3: 0.00 meters
+
+Frame 19:
+  Road 1: 33.78 meters
+  Road 2: 83.17 meters
+  Road 3: 0.00 meters
+
+Frame 20:
+  Road 1: 33.79 meters
+  Road 2: 83.20 meters
+  Road 3: 0.00 meters
+
+Frame 21:
+  Road 1: 33.87 meters
+  Road 2: 83.69 meters
+  Road 3: 0.00 meters
+
+Frame 22:
+  Road 1: 33.84 meters
+  Road 2: 84.04 meters
+  Road 3: 0.00 meters
+
+Frame 23:
+  Road 1: 33.77 meters
+  Road 2: 84.86 meters
+  Road 3: 0.00 meters
+
+Frame 24:
+  Road 1: 33.73 meters
+  Road 2: 84.92 meters
+  Road 3: 17.73 meters
+
+Frame 25:
+  Road 1: 33.48 meters
+  Road 2: 84.59 meters
+  Road 3: 0.00 meters
+
+Frame 26:
+  Road 1: 33.58 meters
+  Road 2: 83.94 meters
+  Road 3: 0.00 meters
+
+Frame 27:
+  Road 1: 33.42 meters
+  Road 2: 84.90 meters
+  Road 3: 0.00 meters
+
+Frame 28:
+  Road 1: 33.13 meters
+  Road 2: 85.01 meters
+  Road 3: 0.00 meters
+
+Frame 29:
+  Road 1: 33.01 meters
+  Road 2: 84.38 meters
+  Road 3: 0.00 meters
+
+Frame 30:
+  Road 1: 32.39 meters
+  Road 2: 82.35 meters
+  Road 3: 0.00 meters
+
+Frame 31:
+  Road 1: 32.89 meters
+  Road 2: 79.08 meters
+  Road 3: 18.89 meters
+
+Frame 32:
+  Road 1: 32.91 meters
+  Road 2: 79.53 meters
+  Road 3: 18.65 meters
+
+Frame 33:
+  Road 1: 32.96 meters
+  Road 2: 80.75 meters
+  Road 3: 0.00 meters
+
+Frame 34:
+  Road 1: 32.91 meters
+  Road 2: 81.34 meters
+  Road 3: 0.00 meters
+
+Frame 35:
+  Road 1: 32.90 meters
+  Road 2: 81.59 meters
+  Road 3: 0.00 meters
+
+Frame 36:
+  Road 1: 32.56 meters
+  Road 2: 82.01 meters
+  Road 3: 0.00 meters
+
+Frame 37:
+  Road 1: 31.58 meters
+  Road 2: 82.74 meters
+  Road 3: 0.00 meters
+
+Frame 38:
+  Road 1: 32.34 meters
+  Road 2: 82.71 meters
+  Road 3: 0.00 meters
+
+Frame 39:
+  Road 1: 31.35 meters
+  Road 2: 83.05 meters
+  Road 3: 0.00 meters
+
+Frame 40:
+  Road 1: 32.81 meters
+  Road 2: 83.18 meters
+  Road 3: 0.00 meters
+
+Frame 41:
+  Road 1: 33.43 meters
+  Road 2: 83.56 meters
+  Road 3: 0.00 meters
+
+Frame 42:
+  Road 1: 33.36 meters
+  Road 2: 83.94 meters
+  Road 3: 16.99 meters
+
+Frame 43:
+  Road 1: 29.56 meters
+  Road 2: 84.14 meters
+  Road 3: 0.00 meters
+
+Frame 44:
+  Road 1: 33.26 meters
+  Road 2: 84.19 meters
+  Road 3: 0.00 meters
+
+Frame 45:
+  Road 1: 33.01 meters
+  Road 2: 85.11 meters
+  Road 3: 18.17 meters
+
+Frame 46:
+  Road 1: 32.70 meters
+  Road 2: 71.04 meters
+  Road 3: 0.00 meters
+
+Frame 47:
+  Road 1: 32.69 meters
+  Road 2: 70.97 meters
+  Road 3: 0.00 meters
+
+Frame 48:
+  Road 1: 32.69 meters
+  Road 2: 71.17 meters
+  Road 3: 0.00 meters
+
+Frame 49:
+  Road 1: 29.89 meters
+  Road 2: 71.21 meters
+  Road 3: 20.84 meters
+
+Frame 50:
+  Road 1: 24.74 meters
+  Road 2: 71.37 meters
+  Road 3: 20.87 meters
+
+Frame 51:
+  Road 1: 29.65 meters
+  Road 2: 72.30 meters
+  Road 3: 21.05 meters
+
+Frame 52:
+  Road 1: 31.23 meters
+  Road 2: 72.13 meters
+  Road 3: 24.18 meters
+
+Frame 53:
+  Road 1: 40.56 meters
+  Road 2: 72.42 meters
+  Road 3: 24.23 meters
+
+Frame 54:
+  Road 1: 40.48 meters
+  Road 2: 72.70 meters
+  Road 3: 21.24 meters
+
+Frame 55:
+  Road 1: 40.53 meters
+  Road 2: 73.18 meters
+  Road 3: 24.43 meters
+
+Frame 56:
+  Road 1: 40.48 meters
+  Road 2: 73.46 meters
+  Road 3: 24.08 meters
+
+Frame 57:
+  Road 1: 40.07 meters
+  Road 2: 73.45 meters
+  Road 3: 24.95 meters
+
+Frame 58:
+  Road 1: 40.07 meters
+  Road 2: 73.70 meters
+  Road 3: 0.00 meters
+
+Frame 59:
+  Road 1: 40.19 meters
+  Road 2: 73.60 meters
+  Road 3: 6.49 meters
+
+Frame 60:
+  Road 1: 39.94 meters
+  Road 2: 74.38 meters
+  Road 3: 24.90 meters
+
+Frame 61:
+  Road 1: 40.07 meters
+  Road 2: 74.49 meters
+  Road 3: 0.00 meters
+
+Frame 62:
+  Road 1: 39.99 meters
+  Road 2: 74.23 meters
+  Road 3: 0.00 meters
+
+Frame 63:
+  Road 1: 39.89 meters
+  Road 2: 74.70 meters
+  Road 3: 0.00 meters
+
+Frame 64:
+  Road 1: 39.72 meters
+  Road 2: 74.06 meters
+  Road 3: 3.85 meters
+
+Frame 65:
+  Road 1: 39.74 meters
+  Road 2: 74.41 meters
+  Road 3: 0.00 meters
+
+Frame 66:
+  Road 1: 40.37 meters
+  Road 2: 74.96 meters
+  Road 3: 5.72 meters
+
+Frame 67:
+  Road 1: 40.29 meters
+  Road 2: 75.08 meters
+  Road 3: 25.54 meters
+
+Frame 68:
+  Road 1: 39.21 meters
+  Road 2: 74.79 meters
+  Road 3: 25.63 meters
+
+Frame 69:
+  Road 1: 37.78 meters
+  Road 2: 74.46 meters
+  Road 3: 26.19 meters
+
+Frame 70:
+  Road 1: 37.66 meters
+  Road 2: 74.87 meters
+  Road 3: 26.14 meters
+
+Frame 71:
+  Road 1: 37.70 meters
+  Road 2: 75.14 meters
+  Road 3: 26.51 meters
+
+Frame 72:
+  Road 1: 37.77 meters
+  Road 2: 75.76 meters
+  Road 3: 26.71 meters
+
+Frame 73:
+  Road 1: 37.74 meters
+  Road 2: 75.75 meters
+  Road 3: 26.26 meters
+
+Frame 74:
+  Road 1: 37.77 meters
+  Road 2: 76.05 meters
+  Road 3: 27.41 meters
+
+Frame 75:
+  Road 1: 32.60 meters
+  Road 2: 76.20 meters
+  Road 3: 26.63 meters
+
+Frame 76:
+  Road 1: 32.43 meters
+  Road 2: 76.58 meters
+  Road 3: 27.45 meters
+
+Frame 77:
+  Road 1: 32.47 meters
+  Road 2: 76.72 meters
+  Road 3: 27.47 meters
+
+Frame 78:
+  Road 1: 32.30 meters
+  Road 2: 76.87 meters
+  Road 3: 27.46 meters
+
+Frame 79:
+  Road 1: 32.33 meters
+  Road 2: 76.92 meters
+  Road 3: 0.00 meters
+
+Frame 80:
+  Road 1: 32.26 meters
+  Road 2: 77.51 meters
+  Road 3: 27.10 meters
+
+Frame 81:
+  Road 1: 32.33 meters
+  Road 2: 77.73 meters
+  Road 3: 27.09 meters
+
+Frame 82:
+  Road 1: 32.40 meters
+  Road 2: 77.49 meters
+  Road 3: 27.29 meters
+
+Frame 83:
+  Road 1: 32.31 meters
+  Road 2: 78.94 meters
+  Road 3: 28.29 meters
+
+Frame 84:
+  Road 1: 32.29 meters
+  Road 2: 79.57 meters
+  Road 3: 28.62 meters
+
+Frame 85:
+  Road 1: 33.19 meters
+  Road 2: 79.81 meters
+  Road 3: 28.26 meters
+
+Frame 86:
+  Road 1: 32.48 meters
+  Road 2: 80.38 meters
+  Road 3: 27.75 meters
+
+Frame 87:
+  Road 1: 32.39 meters
+  Road 2: 80.37 meters
+  Road 3: 27.94 meters
+
+Frame 88:
+  Road 1: 32.36 meters
+  Road 2: 80.09 meters
+  Road 3: 25.23 meters
+
+Frame 89:
+  Road 1: 32.38 meters
+  Road 2: 80.33 meters
+  Road 3: 25.77 meters
+
+Frame 90:
+  Road 1: 32.62 meters
+  Road 2: 80.76 meters
+  Road 3: 28.41 meters
+
+Frame 91:
+  Road 1: 32.59 meters
+  Road 2: 80.38 meters
+  Road 3: 26.07 meters
+
+Frame 92:
+  Road 1: 32.76 meters
+  Road 2: 80.04 meters
+  Road 3: 26.06 meters
+
+Frame 93:
+  Road 1: 33.19 meters
+  Road 2: 80.28 meters
+  Road 3: 25.96 meters
+
+Frame 94:
+  Road 1: 33.01 meters
+  Road 2: 80.79 meters
+  Road 3: 25.87 meters
+
+Frame 95:
+  Road 1: 32.97 meters
+  Road 2: 81.49 meters
+  Road 3: 25.49 meters
+
+Frame 96:
+  Road 1: 32.94 meters
+  Road 2: 82.79 meters
+  Road 3: 26.14 meters
+
+Frame 97:
+  Road 1: 32.77 meters
+  Road 2: 79.82 meters
+  Road 3: 26.12 meters
+
+Frame 98:
+  Road 1: 32.65 meters
+  Road 2: 79.88 meters
+  Road 3: 26.32 meters
+
+Frame 99:
+  Road 1: 38.87 meters
+  Road 2: 79.61 meters
+  Road 3: 0.00 meters
+
+Frame 100:
+  Road 1: 39.04 meters
+  Road 2: 80.56 meters
+  Road 3: 29.40 meters
+
+Frame 101:
+  Road 1: 38.65 meters
+  Road 2: 80.62 meters
+  Road 3: 0.00 meters
+
+Frame 102:
+  Road 1: 39.04 meters
+  Road 2: 80.49 meters
+  Road 3: 0.00 meters
+
+Frame 103:
+  Road 1: 39.32 meters
+  Road 2: 80.62 meters
+  Road 3: 0.00 meters
+
+Frame 104:
+  Road 1: 39.44 meters
+  Road 2: 80.80 meters
+  Road 3: 0.00 meters
+
+Frame 105:
+  Road 1: 39.29 meters
+  Road 2: 80.28 meters
+  Road 3: 0.00 meters
+
+Frame 106:
+  Road 1: 39.47 meters
+  Road 2: 79.12 meters
+  Road 3: 0.00 meters
+
+Frame 107:
+  Road 1: 39.54 meters
+  Road 2: 79.13 meters
+  Road 3: 0.00 meters
+
+Frame 108:
+  Road 1: 39.63 meters
+  Road 2: 79.89 meters
+  Road 3: 0.00 meters
+
+Frame 109:
+  Road 1: 39.33 meters
+  Road 2: 81.38 meters
+  Road 3: 0.00 meters
+
+Frame 110:
+  Road 1: 39.31 meters
+  Road 2: 81.86 meters
+  Road 3: 0.00 meters
+
+Frame 111:
+  Road 1: 39.72 meters
+  Road 2: 79.46 meters
+  Road 3: 0.00 meters
+
+Frame 112:
+  Road 1: 39.18 meters
+  Road 2: 79.98 meters
+  Road 3: 0.00 meters
+
+Frame 113:
+  Road 1: 38.99 meters
+  Road 2: 80.17 meters
+  Road 3: 0.00 meters
+
+Frame 114:
+  Road 1: 38.71 meters
+  Road 2: 80.16 meters
+  Road 3: 0.00 meters
+
+Frame 115:
+  Road 1: 38.67 meters
+  Road 2: 80.85 meters
+  Road 3: 28.83 meters
+
+Frame 116:
+  Road 1: 38.62 meters
+  Road 2: 80.87 meters
+  Road 3: 28.88 meters
+
+Frame 117:
+  Road 1: 38.66 meters
+  Road 2: 80.89 meters
+  Road 3: 0.00 meters
+
+Frame 118:
+  Road 1: 38.67 meters
+  Road 2: 81.80 meters
+  Road 3: 0.00 meters
+
+Frame 119:
+  Road 1: 38.75 meters
+  Road 2: 82.22 meters
+  Road 3: 29.52 meters
+
+Frame 120:
+  Road 1: 38.75 meters
+  Road 2: 81.96 meters
+  Road 3: 0.00 meters
+
+Frame 121:
+  Road 1: 19.50 meters
+  Road 2: 82.49 meters
+  Road 3: 0.00 meters
+
+Frame 122:
+  Road 1: 19.32 meters
+  Road 2: 82.85 meters
+  Road 3: 0.00 meters
+
+Frame 123:
+  Road 1: 38.39 meters
+  Road 2: 84.03 meters
+  Road 3: 0.00 meters
+
+Frame 124:
+  Road 1: 38.18 meters
+  Road 2: 84.49 meters
+  Road 3: 30.24 meters
+
+Frame 125:
+  Road 1: 38.09 meters
+  Road 2: 84.32 meters
+  Road 3: 0.00 meters
+
+Frame 126:
+  Road 1: 38.36 meters
+  Road 2: 84.54 meters
+  Road 3: 0.00 meters
+
+Frame 127:
+  Road 1: 38.35 meters
+  Road 2: 43.65 meters
+  Road 3: 0.00 meters
+
+Frame 128:
+  Road 1: 38.27 meters
+  Road 2: 43.75 meters
+  Road 3: 0.00 meters
+
+Frame 129:
+  Road 1: 24.84 meters
+  Road 2: 28.27 meters
+  Road 3: 0.00 meters
+
+Frame 130:
+  Road 1: 24.76 meters
+  Road 2: 27.99 meters
+  Road 3: 0.00 meters
+
+Frame 131:
+  Road 1: 24.69 meters
+  Road 2: 27.78 meters
+  Road 3: 0.00 meters
+
+Frame 132:
+  Road 1: 24.65 meters
+  Road 2: 27.97 meters
+  Road 3: 0.00 meters
+
+Frame 133:
+  Road 1: 24.75 meters
+  Road 2: 27.78 meters
+  Road 3: 0.00 meters
+
+Frame 134:
+  Road 1: 19.63 meters
+  Road 2: 27.77 meters
+  Road 3: 0.00 meters
+
+Frame 135:
+  Road 1: 19.39 meters
+  Road 2: 27.88 meters
+  Road 3: 0.00 meters
+
+Frame 136:
+  Road 1: 18.84 meters
+  Road 2: 27.90 meters
+  Road 3: 0.00 meters
+
+Frame 137:
+  Road 1: 19.09 meters
+  Road 2: 27.88 meters
+  Road 3: 0.00 meters
+
+Frame 138:
+  Road 1: 24.58 meters
+  Road 2: 28.03 meters
+  Road 3: 0.00 meters
+
+Frame 139:
+  Road 1: 19.00 meters
+  Road 2: 27.96 meters
+  Road 3: 0.00 meters
+
+Frame 140:
+  Road 1: 18.97 meters
+  Road 2: 75.88 meters
+  Road 3: 0.00 meters
+
+Frame 141:
+  Road 1: 24.46 meters
+  Road 2: 75.99 meters
+  Road 3: 0.00 meters
+
+Frame 142:
+  Road 1: 19.24 meters
+  Road 2: 76.02 meters
+  Road 3: 20.20 meters
+
+Frame 143:
+  Road 1: 19.30 meters
+  Road 2: 76.07 meters
+  Road 3: 0.00 meters
+
+Frame 144:
+  Road 1: 19.26 meters
+  Road 2: 76.27 meters
+  Road 3: 33.29 meters
+
+Frame 145:
+  Road 1: 19.18 meters
+  Road 2: 76.71 meters
+  Road 3: 0.00 meters
+
+Frame 146:
+  Road 1: 19.20 meters
+  Road 2: 76.88 meters
+  Road 3: 33.48 meters
+
+Frame 147:
+  Road 1: 19.14 meters
+  Road 2: 77.28 meters
+  Road 3: 33.54 meters
+
+Frame 148:
+  Road 1: 19.01 meters
+  Road 2: 77.92 meters
+  Road 3: 33.70 meters
+
+Frame 149:
+  Road 1: 25.58 meters
+  Road 2: 77.77 meters
+  Road 3: 34.04 meters
+
+Frame 150:
+  Road 1: 25.59 meters
+  Road 2: 77.94 meters
+  Road 3: 34.19 meters
+
+Frame 151:
+  Road 1: 25.62 meters
+  Road 2: 78.12 meters
+  Road 3: 34.60 meters
+
+Frame 152:
+  Road 1: 25.68 meters
+  Road 2: 78.32 meters
+  Road 3: 34.42 meters
+
+Frame 153:
+  Road 1: 25.90 meters
+  Road 2: 79.13 meters
+  Road 3: 21.08 meters
+
+Frame 154:
+  Road 1: 25.28 meters
+  Road 2: 79.00 meters
+  Road 3: 34.75 meters
+
+Frame 155:
+  Road 1: 25.30 meters
+  Road 2: 79.04 meters
+  Road 3: 34.82 meters
+
+Frame 156:
+  Road 1: 25.28 meters
+  Road 2: 78.94 meters
+  Road 3: 21.49 meters
+
+Frame 157:
+  Road 1: 24.71 meters
+  Road 2: 79.01 meters
+  Road 3: 35.35 meters
+
+Frame 158:
+  Road 1: 24.54 meters
+  Road 2: 79.73 meters
+  Road 3: 35.66 meters
+
+Frame 159:
+  Road 1: 24.45 meters
+  Road 2: 79.65 meters
+  Road 3: 36.04 meters
+
+Frame 160:
+  Road 1: 30.70 meters
+  Road 2: 79.86 meters
+  Road 3: 36.13 meters
+
+Frame 161:
+  Road 1: 29.85 meters
+  Road 2: 79.56 meters
+  Road 3: 21.88 meters
+
+Frame 162:
+  Road 1: 30.42 meters
+  Road 2: 79.64 meters
+  Road 3: 36.19 meters
+
+Frame 163:
+  Road 1: 30.22 meters
+  Road 2: 79.76 meters
+  Road 3: 22.15 meters
+
+Frame 164:
+  Road 1: 29.92 meters
+  Road 2: 79.94 meters
+  Road 3: 0.11 meters
+
+Frame 165:
+  Road 1: 37.18 meters
+  Road 2: 79.77 meters
+  Road 3: 0.10 meters
+
+Frame 166:
+  Road 1: 37.25 meters
+  Road 2: 79.57 meters
+  Road 3: 0.25 meters
+
+Frame 167:
+  Road 1: 38.58 meters
+  Road 2: 79.90 meters
+  Road 3: 22.23 meters
+
+Frame 168:
+  Road 1: 25.71 meters
+  Road 2: 80.93 meters
+  Road 3: 22.72 meters
+
+Frame 169:
+  Road 1: 25.83 meters
+  Road 2: 81.54 meters
+  Road 3: 22.97 meters
+
+Frame 170:
+  Road 1: 25.80 meters
+  Road 2: 81.60 meters
+  Road 3: 0.15 meters
+
+Frame 171:
+  Road 1: 23.98 meters
+  Road 2: 81.63 meters
+  Road 3: 0.25 meters
+
+Frame 172:
+  Road 1: 24.01 meters
+  Road 2: 82.28 meters
+  Road 3: 22.61 meters
+
+Frame 173:
+  Road 1: 14.28 meters
+  Road 2: 82.39 meters
+  Road 3: 0.18 meters
+
+Frame 174:
+  Road 1: 23.76 meters
+  Road 2: 82.89 meters
+  Road 3: 0.00 meters
+
+Frame 175:
+  Road 1: 31.79 meters
+  Road 2: 83.19 meters
+  Road 3: 25.97 meters
+
+Frame 176:
+  Road 1: 24.78 meters
+  Road 2: 83.28 meters
+  Road 3: 25.14 meters
+
+Frame 177:
+  Road 1: 24.74 meters
+  Road 2: 83.59 meters
+  Road 3: 22.93 meters
+
+Frame 178:
+  Road 1: 25.00 meters
+  Road 2: 84.18 meters
+  Road 3: 23.61 meters
+
+Frame 179:
+  Road 1: 24.54 meters
+  Road 2: 84.19 meters
+  Road 3: 25.23 meters
+
+Frame 180:
+  Road 1: 36.14 meters
+  Road 2: 84.56 meters
+  Road 3: 0.29 meters
+
+Frame 181:
+  Road 1: 35.87 meters
+  Road 2: 68.96 meters
+  Road 3: 26.57 meters
+
+Frame 182:
+  Road 1: 35.83 meters
+  Road 2: 69.10 meters
+  Road 3: 26.19 meters
+
+Frame 183:
+  Road 1: 35.85 meters
+  Road 2: 69.50 meters
+  Road 3: 26.07 meters
+
+Frame 184:
+  Road 1: 14.39 meters
+  Road 2: 69.67 meters
+  Road 3: 26.60 meters
+
+Frame 185:
+  Road 1: 22.89 meters
+  Road 2: 69.83 meters
+  Road 3: 26.03 meters
+
+Frame 186:
+  Road 1: 23.19 meters
+  Road 2: 69.98 meters
+  Road 3: 26.28 meters
+
+Frame 187:
+  Road 1: 23.10 meters
+  Road 2: 69.63 meters
+  Road 3: 27.03 meters
+
+Frame 188:
+  Road 1: 23.03 meters
+  Road 2: 69.56 meters
+  Road 3: 27.21 meters
+
+Frame 189:
+  Road 1: 22.98 meters
+  Road 2: 70.12 meters
+  Road 3: 0.00 meters
+
+Frame 190:
+  Road 1: 30.25 meters
+  Road 2: 70.23 meters
+  Road 3: 26.86 meters
+
+Frame 191:
+  Road 1: 30.22 meters
+  Road 2: 70.25 meters
+  Road 3: 27.08 meters
+
+Frame 192:
+  Road 1: 30.58 meters
+  Road 2: 70.58 meters
+  Road 3: 27.55 meters
+
+Frame 193:
+  Road 1: 30.56 meters
+  Road 2: 70.73 meters
+  Road 3: 27.38 meters
+
+Frame 194:
+  Road 1: 30.63 meters
+  Road 2: 70.93 meters
+  Road 3: 27.33 meters
+
+Frame 195:
+  Road 1: 29.99 meters
+  Road 2: 71.27 meters
+  Road 3: 26.20 meters
+
+Frame 196:
+  Road 1: 30.00 meters
+  Road 2: 71.38 meters
+  Road 3: 26.43 meters
+
+Frame 197:
+  Road 1: 30.08 meters
+  Road 2: 71.49 meters
+  Road 3: 27.10 meters
+
+Frame 198:
+  Road 1: 34.66 meters
+  Road 2: 71.51 meters
+  Road 3: 27.30 meters
+
+Frame 199:
+  Road 1: 36.37 meters
+  Road 2: 71.72 meters
+  Road 3: 27.40 meters
+
+Frame 200:
+  Road 1: 34.42 meters
+  Road 2: 71.92 meters
+  Road 3: 27.75 meters
+
+Frame 201:
+  Road 1: 34.38 meters
+  Road 2: 71.72 meters
+  Road 3: 27.15 meters
+
+Frame 202:
+  Road 1: 34.36 meters
+  Road 2: 72.12 meters
+  Road 3: 26.91 meters
+
+Frame 203:
+  Road 1: 34.16 meters
+  Road 2: 72.37 meters
+  Road 3: 27.09 meters
+
+Frame 204:
+  Road 1: 34.19 meters
+  Road 2: 72.45 meters
+  Road 3: 27.28 meters
+
+Frame 205:
+  Road 1: 34.18 meters
+  Road 2: 72.73 meters
+  Road 3: 27.69 meters
+
+Frame 206:
+  Road 1: 34.28 meters
+  Road 2: 73.03 meters
+  Road 3: 28.36 meters
+
+Frame 207:
+  Road 1: 33.76 meters
+  Road 2: 73.00 meters
+  Road 3: 27.35 meters
+
+Frame 208:
+  Road 1: 33.92 meters
+  Road 2: 73.70 meters
+  Road 3: 26.55 meters
+
+Frame 209:
+  Road 1: 33.82 meters
+  Road 2: 73.74 meters
+  Road 3: 26.68 meters
+
+Frame 210:
+  Road 1: 33.73 meters
+  Road 2: 73.97 meters
+  Road 3: 26.58 meters
+
+Frame 211:
+  Road 1: 21.48 meters
+  Road 2: 73.99 meters
+  Road 3: 30.31 meters
+
+Frame 212:
+  Road 1: 21.57 meters
+  Road 2: 74.04 meters
+  Road 3: 29.57 meters
+
+Frame 213:
+  Road 1: 29.20 meters
+  Road 2: 74.17 meters
+  Road 3: 28.56 meters
+
+Frame 214:
+  Road 1: 29.09 meters
+  Road 2: 74.30 meters
+  Road 3: 28.14 meters
+
+Frame 215:
+  Road 1: 29.01 meters
+  Road 2: 74.57 meters
+  Road 3: 31.15 meters
+
+Frame 216:
+  Road 1: 21.57 meters
+  Road 2: 74.98 meters
+  Road 3: 29.18 meters
+
+Frame 217:
+  Road 1: 21.48 meters
+  Road 2: 66.81 meters
+  Road 3: 28.72 meters
+
+Frame 218:
+  Road 1: 21.55 meters
+  Road 2: 75.40 meters
+  Road 3: 29.92 meters
+
+Frame 219:
+  Road 1: 21.36 meters
+  Road 2: 66.62 meters
+  Road 3: 29.92 meters
+
+Frame 220:
+  Road 1: 29.34 meters
+  Road 2: 66.93 meters
+  Road 3: 30.32 meters
+
+Frame 221:
+  Road 1: 29.40 meters
+  Road 2: 66.67 meters
+  Road 3: 32.21 meters
+
+Frame 222:
+  Road 1: 34.24 meters
+  Road 2: 67.70 meters
+  Road 3: 30.17 meters
+
+Frame 223:
+  Road 1: 33.67 meters
+  Road 2: 67.23 meters
+  Road 3: 31.19 meters
+
+Frame 224:
+  Road 1: 34.06 meters
+  Road 2: 67.79 meters
+  Road 3: 30.99 meters
+
+Frame 225:
+  Road 1: 33.56 meters
+  Road 2: 69.61 meters
+  Road 3: 30.33 meters
+
+Frame 226:
+  Road 1: 33.29 meters
+  Road 2: 69.07 meters
+  Road 3: 32.32 meters
+
+Frame 227:
+  Road 1: 33.65 meters
+  Road 2: 69.88 meters
+  Road 3: 31.28 meters
+
+Frame 228:
+  Road 1: 33.43 meters
+  Road 2: 69.84 meters
+  Road 3: 31.62 meters
+
+Frame 229:
+  Road 1: 33.15 meters
+  Road 2: 69.89 meters
+  Road 3: 33.41 meters
+
+Frame 230:
+  Road 1: 33.38 meters
+  Road 2: 70.53 meters
+  Road 3: 33.70 meters
+
+Frame 231:
+  Road 1: 33.15 meters
+  Road 2: 70.06 meters
+  Road 3: 33.82 meters
+
+Frame 232:
+  Road 1: 36.30 meters
+  Road 2: 69.07 meters
+  Road 3: 32.96 meters
+
+Frame 233:
+  Road 1: 32.71 meters
+  Road 2: 70.52 meters
+  Road 3: 33.98 meters
+
+Frame 234:
+  Road 1: 32.70 meters
+  Road 2: 70.22 meters
+  Road 3: 33.97 meters
+
+Frame 235:
+  Road 1: 32.63 meters
+  Road 2: 70.98 meters
+  Road 3: 33.86 meters
+
+Frame 236:
+  Road 1: 32.51 meters
+  Road 2: 70.38 meters
+  Road 3: 34.16 meters
+
+Frame 237:
+  Road 1: 32.25 meters
+  Road 2: 71.65 meters
+  Road 3: 34.21 meters
+
+Frame 238:
+  Road 1: 32.07 meters
+  Road 2: 71.38 meters
+  Road 3: 34.33 meters
+
+Frame 239:
+  Road 1: 32.08 meters
+  Road 2: 71.22 meters
+  Road 3: 34.84 meters
+
+Frame 240:
+  Road 1: 32.29 meters
+  Road 2: 72.24 meters
+  Road 3: 35.42 meters
+
+Frame 241:
+  Road 1: 30.57 meters
+  Road 2: 69.87 meters
+  Road 3: 35.71 meters
+
+Frame 242:
+  Road 1: 32.08 meters
+  Road 2: 71.02 meters
+  Road 3: 35.76 meters
+
+Frame 243:
+  Road 1: 32.39 meters
+  Road 2: 71.32 meters
+  Road 3: 35.82 meters
+
+Frame 244:
+  Road 1: 32.57 meters
+  Road 2: 70.32 meters
+  Road 3: 35.58 meters
+
+Frame 245:
+  Road 1: 32.54 meters
+  Road 2: 70.56 meters
+  Road 3: 36.05 meters
+
+Frame 246:
+  Road 1: 32.49 meters
+  Road 2: 71.19 meters
+  Road 3: 35.15 meters
+
+Frame 247:
+  Road 1: 37.37 meters
+  Road 2: 72.43 meters
+  Road 3: 35.64 meters
+
+Frame 248:
+  Road 1: 37.18 meters
+  Road 2: 72.91 meters
+  Road 3: 35.76 meters
+
+Frame 249:
+  Road 1: 36.79 meters
+  Road 2: 73.29 meters
+  Road 3: 36.11 meters
+
+Frame 250:
+  Road 1: 37.06 meters
+  Road 2: 73.77 meters
+  Road 3: 35.85 meters
+
+Frame 251:
+  Road 1: 36.93 meters
+  Road 2: 73.73 meters
+  Road 3: 36.63 meters
+
+Frame 252:
+  Road 1: 36.84 meters
+  Road 2: 74.42 meters
+  Road 3: 35.72 meters
+
+Frame 253:
+  Road 1: 32.45 meters
+  Road 2: 74.82 meters
+  Road 3: 0.00 meters
+
+Frame 254:
+  Road 1: 32.21 meters
+  Road 2: 75.24 meters
+  Road 3: 0.00 meters
+
+Frame 255:
+  Road 1: 32.04 meters
+  Road 2: 75.46 meters
+  Road 3: 0.00 meters
+
+Frame 256:
+  Road 1: 32.12 meters
+  Road 2: 76.02 meters
+  Road 3: 0.00 meters
+
+Frame 257:
+  Road 1: 31.99 meters
+  Road 2: 76.13 meters
+  Road 3: 0.00 meters
+
+Frame 258:
+  Road 1: 31.79 meters
+  Road 2: 76.58 meters
+  Road 3: 0.00 meters
+
+Frame 259:
+  Road 1: 31.69 meters
+  Road 2: 76.81 meters
+  Road 3: 0.00 meters
+
+Frame 260:
+  Road 1: 31.61 meters
+  Road 2: 76.95 meters
+  Road 3: 0.00 meters
+
+Frame 261:
+  Road 1: 31.72 meters
+  Road 2: 77.27 meters
+  Road 3: 0.00 meters
+
+Frame 262:
+  Road 1: 31.63 meters
+  Road 2: 75.39 meters
+  Road 3: 0.00 meters
+
+Frame 263:
+  Road 1: 31.73 meters
+  Road 2: 76.07 meters
+  Road 3: 0.00 meters
+
+Frame 264:
+  Road 1: 31.55 meters
+  Road 2: 76.03 meters
+  Road 3: 0.00 meters
+
+Frame 265:
+  Road 1: 31.48 meters
+  Road 2: 76.22 meters
+  Road 3: 0.00 meters
+
+Frame 266:
+  Road 1: 31.48 meters
+  Road 2: 76.04 meters
+  Road 3: 0.00 meters
+
+Frame 267:
+  Road 1: 31.49 meters
+  Road 2: 76.22 meters
+  Road 3: 0.00 meters
+
+Frame 268:
+  Road 1: 31.58 meters
+  Road 2: 76.55 meters
+  Road 3: 0.00 meters
+
+Frame 269:
+  Road 1: 31.55 meters
+  Road 2: 76.84 meters
+  Road 3: 0.00 meters
+
+Frame 270:
+  Road 1: 31.72 meters
+  Road 2: 77.08 meters
+  Road 3: 2.05 meters
+
+Frame 271:
+  Road 1: 31.74 meters
+  Road 2: 76.74 meters
+  Road 3: 0.00 meters
+
+Frame 272:
+  Road 1: 31.34 meters
+  Road 2: 76.83 meters
+  Road 3: 0.00 meters
+
+Frame 273:
+  Road 1: 31.58 meters
+  Road 2: 77.66 meters
+  Road 3: 0.00 meters
+
+Frame 274:
+  Road 1: 31.85 meters
+  Road 2: 77.93 meters
+  Road 3: 0.00 meters
+
+Frame 275:
+  Road 1: 31.88 meters
+  Road 2: 78.12 meters
+  Road 3: 0.00 meters
+
+Frame 276:
+  Road 1: 31.78 meters
+  Road 2: 78.54 meters
+  Road 3: 0.00 meters
+
+Frame 277:
+  Road 1: 31.31 meters
+  Road 2: 78.92 meters
+  Road 3: 0.00 meters
+
+Frame 278:
+  Road 1: 31.32 meters
+  Road 2: 78.87 meters
+  Road 3: 0.00 meters
+
+Frame 279:
+  Road 1: 31.13 meters
+  Road 2: 79.28 meters
+  Road 3: 0.00 meters
+
+Frame 280:
+  Road 1: 31.45 meters
+  Road 2: 79.63 meters
+  Road 3: 0.00 meters
+
+Frame 281:
+  Road 1: 31.38 meters
+  Road 2: 79.67 meters
+  Road 3: 0.00 meters
+
+Frame 282:
+  Road 1: 31.21 meters
+  Road 2: 79.62 meters
+  Road 3: 0.00 meters
+
+Frame 1:
+  Road 1: 0.15 meters
+  Road 2: 38.70 meters
+  Road 3: 0.00 meters
+
+Frame 2:
+  Road 1: 0.40 meters
+  Road 2: 38.50 meters
+  Road 3: 0.00 meters
+
+Frame 3:
+  Road 1: 0.10 meters
+  Road 2: 38.31 meters
+  Road 3: 0.00 meters
+
+Frame 4:
+  Road 1: 10.87 meters
+  Road 2: 38.22 meters
+  Road 3: 0.00 meters
+
+Frame 5:
+  Road 1: 10.69 meters
+  Road 2: 38.02 meters
+  Road 3: 0.00 meters
+
+Frame 6:
+  Road 1: 10.59 meters
+  Road 2: 37.98 meters
+  Road 3: 0.00 meters
+
+Frame 7:
+  Road 1: 0.43 meters
+  Road 2: 37.78 meters
+  Road 3: 0.00 meters
+
+Frame 8:
+  Road 1: 0.00 meters
+  Road 2: 37.43 meters
+  Road 3: 0.00 meters
+
+Frame 9:
+  Road 1: 0.16 meters
+  Road 2: 37.42 meters
+  Road 3: 0.00 meters
+
+Frame 10:
+  Road 1: 0.21 meters
+  Road 2: 36.17 meters
+  Road 3: 0.00 meters
+
+Frame 11:
+  Road 1: 0.29 meters
+  Road 2: 35.12 meters
+  Road 3: 0.00 meters
+
+Frame 12:
+  Road 1: 0.36 meters
+  Road 2: 34.97 meters
+  Road 3: 0.00 meters
+
+Frame 13:
+  Road 1: 0.75 meters
+  Road 2: 34.92 meters
+  Road 3: 0.00 meters
+
+Frame 14:
+  Road 1: 0.05 meters
+  Road 2: 34.82 meters
+  Road 3: 0.00 meters
+
+Frame 15:
+  Road 1: 0.00 meters
+  Road 2: 34.62 meters
+  Road 3: 0.00 meters
+
+Frame 16:
+  Road 1: 0.00 meters
+  Road 2: 21.45 meters
+  Road 3: 0.00 meters
+
+Frame 17:
+  Road 1: 0.21 meters
+  Road 2: 16.08 meters
+  Road 3: 0.00 meters
+
+Frame 18:
+  Road 1: 0.16 meters
+  Road 2: 22.25 meters
+  Road 3: 0.00 meters
+
+Frame 19:
+  Road 1: 0.20 meters
+  Road 2: 9.94 meters
+  Road 3: 0.00 meters
+
+Frame 20:
+  Road 1: 0.00 meters
+  Road 2: 9.70 meters
+  Road 3: 0.00 meters
+
+Frame 21:
+  Road 1: 0.00 meters
+  Road 2: 10.18 meters
+  Road 3: 0.00 meters
+
+Frame 22:
+  Road 1: 0.00 meters
+  Road 2: 10.35 meters
+  Road 3: 0.00 meters
+
+Frame 23:
+  Road 1: 0.00 meters
+  Road 2: 10.14 meters
+  Road 3: 0.00 meters
+
+Frame 24:
+  Road 1: 0.00 meters
+  Road 2: 9.55 meters
+  Road 3: 0.00 meters
+
+Frame 25:
+  Road 1: 0.00 meters
+  Road 2: 32.26 meters
+  Road 3: 0.00 meters
+
+Frame 26:
+  Road 1: 0.00 meters
+  Road 2: 32.11 meters
+  Road 3: 0.00 meters
+
+Frame 27:
+  Road 1: 0.00 meters
+  Road 2: 10.26 meters
+  Road 3: 0.00 meters
+
+Frame 28:
+  Road 1: 0.00 meters
+  Road 2: 8.55 meters
+  Road 3: 0.00 meters
+
+Frame 29:
+  Road 1: 0.00 meters
+  Road 2: 8.29 meters
+  Road 3: 0.00 meters
+
+Frame 30:
+  Road 1: 0.00 meters
+  Road 2: 7.54 meters
+  Road 3: 0.00 meters
+
+Frame 31:
+  Road 1: 0.00 meters
+  Road 2: 29.12 meters
+  Road 3: 0.00 meters
+
+Frame 32:
+  Road 1: 0.00 meters
+  Road 2: 30.65 meters
+  Road 3: 0.00 meters
+
+Frame 33:
+  Road 1: 0.00 meters
+  Road 2: 30.65 meters
+  Road 3: 0.00 meters
+
+Frame 34:
+  Road 1: 0.18 meters
+  Road 2: 30.45 meters
+  Road 3: 0.00 meters
+
+Frame 35:
+  Road 1: 0.21 meters
+  Road 2: 30.19 meters
+  Road 3: 0.00 meters
+
+Frame 36:
+  Road 1: 0.18 meters
+  Road 2: 15.66 meters
+  Road 3: 0.00 meters
+
+Frame 37:
+  Road 1: 0.00 meters
+  Road 2: 15.52 meters
+  Road 3: 0.00 meters
+
+Frame 38:
+  Road 1: 0.00 meters
+  Road 2: 29.74 meters
+  Road 3: 0.00 meters
+
+Frame 39:
+  Road 1: 0.00 meters
+  Road 2: 30.12 meters
+  Road 3: 0.00 meters
+
+Frame 40:
+  Road 1: 0.00 meters
+  Road 2: 41.29 meters
+  Road 3: 0.00 meters
+
+Frame 41:
+  Road 1: 0.00 meters
+  Road 2: 41.03 meters
+  Road 3: 0.00 meters
+
+Frame 1:
+  Road 1: 0.15 meters
+  Road 2: 38.70 meters
+  Road 3: 0.00 meters
+
+Frame 2:
+  Road 1: 0.40 meters
+  Road 2: 38.50 meters
+  Road 3: 0.00 meters
+
+Frame 3:
+  Road 1: 0.10 meters
+  Road 2: 38.31 meters
+  Road 3: 0.00 meters
+
+Frame 4:
+  Road 1: 10.87 meters
+  Road 2: 38.22 meters
+  Road 3: 0.00 meters
+
+Frame 5:
+  Road 1: 10.69 meters
+  Road 2: 38.02 meters
+  Road 3: 0.00 meters
+
+Frame 6:
+  Road 1: 10.59 meters
+  Road 2: 37.98 meters
+  Road 3: 0.00 meters
+
+Frame 7:
+  Road 1: 0.43 meters
+  Road 2: 37.78 meters
+  Road 3: 0.00 meters
+
+Frame 8:
+  Road 1: 0.00 meters
+  Road 2: 37.43 meters
+  Road 3: 0.00 meters
+
+Frame 9:
+  Road 1: 0.16 meters
+  Road 2: 37.42 meters
+  Road 3: 0.00 meters
+
+Frame 10:
+  Road 1: 0.21 meters
+  Road 2: 36.17 meters
+  Road 3: 0.00 meters
+
+Frame 11:
+  Road 1: 0.29 meters
+  Road 2: 35.12 meters
+  Road 3: 0.00 meters
+
+Frame 12:
+  Road 1: 0.36 meters
+  Road 2: 34.97 meters
+  Road 3: 0.00 meters
+
+Frame 13:
+  Road 1: 0.75 meters
+  Road 2: 34.92 meters
+  Road 3: 0.00 meters
+
+Frame 14:
+  Road 1: 0.05 meters
+  Road 2: 34.82 meters
+  Road 3: 0.00 meters
+
+Frame 15:
+  Road 1: 0.00 meters
+  Road 2: 34.62 meters
+  Road 3: 0.00 meters
+
+Frame 16:
+  Road 1: 0.00 meters
+  Road 2: 21.45 meters
+  Road 3: 0.00 meters
+
+Frame 17:
+  Road 1: 0.21 meters
+  Road 2: 16.08 meters
+  Road 3: 0.00 meters
+
+Frame 18:
+  Road 1: 0.16 meters
+  Road 2: 22.25 meters
+  Road 3: 0.00 meters
+
+Frame 19:
+  Road 1: 0.20 meters
+  Road 2: 9.94 meters
+  Road 3: 0.00 meters
+
+Frame 20:
+  Road 1: 0.00 meters
+  Road 2: 9.70 meters
+  Road 3: 0.00 meters
+
+Frame 21:
+  Road 1: 0.00 meters
+  Road 2: 10.18 meters
+  Road 3: 0.00 meters
+
+Frame 22:
+  Road 1: 0.00 meters
+  Road 2: 10.35 meters
+  Road 3: 0.00 meters
+
+Frame 23:
+  Road 1: 0.00 meters
+  Road 2: 10.14 meters
+  Road 3: 0.00 meters
+
+Frame 24:
+  Road 1: 0.00 meters
+  Road 2: 9.55 meters
+  Road 3: 0.00 meters
+
+Frame 25:
+  Road 1: 0.00 meters
+  Road 2: 32.26 meters
+  Road 3: 0.00 meters
+
+Frame 26:
+  Road 1: 0.00 meters
+  Road 2: 32.11 meters
+  Road 3: 0.00 meters
+
+Frame 27:
+  Road 1: 0.00 meters
+  Road 2: 10.26 meters
+  Road 3: 0.00 meters
+
+Frame 28:
+  Road 1: 0.00 meters
+  Road 2: 8.55 meters
+  Road 3: 0.00 meters
+
+Frame 29:
+  Road 1: 0.00 meters
+  Road 2: 8.29 meters
+  Road 3: 0.00 meters
+
+Frame 30:
+  Road 1: 0.00 meters
+  Road 2: 7.54 meters
+  Road 3: 0.00 meters
+
+Frame 31:
+  Road 1: 0.00 meters
+  Road 2: 29.12 meters
+  Road 3: 0.00 meters
+
+Frame 32:
+  Road 1: 0.00 meters
+  Road 2: 30.65 meters
+  Road 3: 0.00 meters
+
+Frame 33:
+  Road 1: 0.00 meters
+  Road 2: 30.65 meters
+  Road 3: 0.00 meters
+
+Frame 34:
+  Road 1: 0.18 meters
+  Road 2: 30.45 meters
+  Road 3: 0.00 meters
+
+Frame 35:
+  Road 1: 0.21 meters
+  Road 2: 30.19 meters
+  Road 3: 0.00 meters
+
+Frame 36:
+  Road 1: 0.18 meters
+  Road 2: 15.66 meters
+  Road 3: 0.00 meters
+
+Frame 37:
+  Road 1: 0.00 meters
+  Road 2: 15.52 meters
+  Road 3: 0.00 meters
+
+Frame 38:
+  Road 1: 0.00 meters
+  Road 2: 29.74 meters
+  Road 3: 0.00 meters
+
+Frame 39:
+  Road 1: 0.00 meters
+  Road 2: 30.12 meters
+  Road 3: 0.00 meters
+
+Frame 40:
+  Road 1: 0.00 meters
+  Road 2: 41.29 meters
+  Road 3: 0.00 meters
+
+Frame 41:
+  Road 1: 0.00 meters
+  Road 2: 41.03 meters
+  Road 3: 0.00 meters
+
+Frame 42:
+  Road 1: 0.22 meters
+  Road 2: 41.02 meters
+  Road 3: 0.00 meters
+
+Frame 43:
+  Road 1: 0.00 meters
+  Road 2: 41.39 meters
+  Road 3: 0.00 meters
+
+Frame 44:
+  Road 1: 0.00 meters
+  Road 2: 41.08 meters
+  Road 3: 0.00 meters
+
+Frame 45:
+  Road 1: 0.00 meters
+  Road 2: 40.82 meters
+  Road 3: 0.00 meters
+
+Frame 46:
+  Road 1: 0.00 meters
+  Road 2: 40.95 meters
+  Road 3: 0.00 meters
+
+Frame 1:
+  Road 1: 0.15 meters
+  Road 2: 38.70 meters
+  Road 3: 0.00 meters
+
+Frame 2:
+  Road 1: 0.40 meters
+  Road 2: 38.50 meters
+  Road 3: 0.00 meters
+
+Frame 3:
+  Road 1: 0.10 meters
+  Road 2: 38.31 meters
+  Road 3: 0.00 meters
+
+Frame 4:
+  Road 1: 10.87 meters
+  Road 2: 38.22 meters
+  Road 3: 0.00 meters
+
+Frame 5:
+  Road 1: 10.69 meters
+  Road 2: 38.02 meters
+  Road 3: 0.00 meters
+
+Frame 6:
+  Road 1: 10.59 meters
+  Road 2: 37.98 meters
+  Road 3: 0.00 meters
+
+Frame 7:
+  Road 1: 0.43 meters
+  Road 2: 37.78 meters
+  Road 3: 0.00 meters
+
+Frame 8:
+  Road 1: 0.00 meters
+  Road 2: 37.43 meters
+  Road 3: 0.00 meters
+
+Frame 9:
+  Road 1: 0.16 meters
+  Road 2: 37.42 meters
+  Road 3: 0.00 meters
+
+Frame 10:
+  Road 1: 0.21 meters
+  Road 2: 36.17 meters
+  Road 3: 0.00 meters
+
+Frame 11:
+  Road 1: 0.29 meters
+  Road 2: 35.12 meters
+  Road 3: 0.00 meters
+
+Frame 12:
+  Road 1: 0.36 meters
+  Road 2: 34.97 meters
+  Road 3: 0.00 meters
+
+Frame 13:
+  Road 1: 0.75 meters
+  Road 2: 34.92 meters
+  Road 3: 0.00 meters
+
+Frame 14:
+  Road 1: 0.05 meters
+  Road 2: 34.82 meters
+  Road 3: 0.00 meters
+
+Frame 15:
+  Road 1: 0.00 meters
+  Road 2: 34.62 meters
+  Road 3: 0.00 meters
+
+Frame 16:
+  Road 1: 0.00 meters
+  Road 2: 21.45 meters
+  Road 3: 0.00 meters
+
+Frame 17:
+  Road 1: 0.21 meters
+  Road 2: 16.08 meters
+  Road 3: 0.00 meters
+
+Frame 18:
+  Road 1: 0.16 meters
+  Road 2: 22.25 meters
+  Road 3: 0.00 meters
+
+Frame 19:
+  Road 1: 0.20 meters
+  Road 2: 9.94 meters
+  Road 3: 0.00 meters
+
+Frame 20:
+  Road 1: 0.00 meters
+  Road 2: 9.70 meters
+  Road 3: 0.00 meters
+
+Frame 21:
+  Road 1: 0.00 meters
+  Road 2: 10.18 meters
+  Road 3: 0.00 meters
+
+Frame 22:
+  Road 1: 0.00 meters
+  Road 2: 10.35 meters
+  Road 3: 0.00 meters
+
+Frame 23:
+  Road 1: 0.00 meters
+  Road 2: 10.14 meters
+  Road 3: 0.00 meters
+
+Frame 24:
+  Road 1: 0.00 meters
+  Road 2: 9.55 meters
+  Road 3: 0.00 meters
+
+Frame 25:
+  Road 1: 0.00 meters
+  Road 2: 32.26 meters
+  Road 3: 0.00 meters
+
+Frame 26:
+  Road 1: 0.00 meters
+  Road 2: 32.11 meters
+  Road 3: 0.00 meters
+
+Frame 27:
+  Road 1: 0.00 meters
+  Road 2: 10.26 meters
+  Road 3: 0.00 meters
+
+Frame 28:
+  Road 1: 0.00 meters
+  Road 2: 8.55 meters
+  Road 3: 0.00 meters
+
+Frame 29:
+  Road 1: 0.00 meters
+  Road 2: 8.29 meters
+  Road 3: 0.00 meters
+
+Frame 30:
+  Road 1: 0.00 meters
+  Road 2: 7.54 meters
+  Road 3: 0.00 meters
+
+Frame 31:
+  Road 1: 0.00 meters
+  Road 2: 29.12 meters
+  Road 3: 0.00 meters
+
+Frame 32:
+  Road 1: 0.00 meters
+  Road 2: 30.65 meters
+  Road 3: 0.00 meters
+
+Frame 33:
+  Road 1: 0.00 meters
+  Road 2: 30.65 meters
+  Road 3: 0.00 meters
+
+Frame 34:
+  Road 1: 0.18 meters
+  Road 2: 30.45 meters
+  Road 3: 0.00 meters
+
+Frame 35:
+  Road 1: 0.21 meters
+  Road 2: 30.19 meters
+  Road 3: 0.00 meters
+
+Frame 36:
+  Road 1: 0.18 meters
+  Road 2: 15.66 meters
+  Road 3: 0.00 meters
+
+Frame 37:
+  Road 1: 0.00 meters
+  Road 2: 15.52 meters
+  Road 3: 0.00 meters
+
+Frame 38:
+  Road 1: 0.00 meters
+  Road 2: 29.74 meters
+  Road 3: 0.00 meters
+
+Frame 1:
+  Road 1: 0.00 meters
+  Road 2: 11.19 meters
+  Road 3: 0.00 meters
+
+Frame 2:
+  Road 1: 0.00 meters
+  Road 2: 11.18 meters
+  Road 3: 0.00 meters
+
+Frame 3:
+  Road 1: 0.00 meters
+  Road 2: 11.24 meters
+  Road 3: 0.00 meters
+
+Frame 4:
+  Road 1: 0.00 meters
+  Road 2: 11.29 meters
+  Road 3: 0.00 meters
+
+Frame 5:
+  Road 1: 0.00 meters
+  Road 2: 11.15 meters
+  Road 3: 0.00 meters
+
+Frame 6:
+  Road 1: 0.00 meters
+  Road 2: 11.20 meters
+  Road 3: 0.00 meters
+
+Frame 7:
+  Road 1: 0.00 meters
+  Road 2: 11.07 meters
+  Road 3: 0.00 meters
+
+Frame 8:
+  Road 1: 0.00 meters
+  Road 2: 11.07 meters
+  Road 3: 0.00 meters
+
+Frame 9:
+  Road 1: 0.00 meters
+  Road 2: 11.27 meters
+  Road 3: 0.00 meters
+
+Frame 10:
+  Road 1: 0.00 meters
+  Road 2: 10.15 meters
+  Road 3: 0.00 meters
+
+Frame 11:
+  Road 1: 0.00 meters
+  Road 2: 9.43 meters
+  Road 3: 0.00 meters
+
+Frame 12:
+  Road 1: 0.00 meters
+  Road 2: 9.15 meters
+  Road 3: 0.00 meters
+
+Frame 13:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 14:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 15:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 16:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 17:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 18:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 19:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 20:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 21:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 22:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 23:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 24:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 25:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 26:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 27:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 28:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 29:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 30:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 31:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 32:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 33:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 1:
+  Road 1: 35.04 meters
+  Road 2: 77.05 meters
+  Road 3: 0.00 meters
+
+Frame 2:
+  Road 1: 34.97 meters
+  Road 2: 77.87 meters
+  Road 3: 0.00 meters
+
+Frame 3:
+  Road 1: 34.93 meters
+  Road 2: 78.52 meters
+  Road 3: 0.00 meters
+
+Frame 4:
+  Road 1: 35.01 meters
+  Road 2: 78.80 meters
+  Road 3: 0.00 meters
+
+Frame 5:
+  Road 1: 34.87 meters
+  Road 2: 78.73 meters
+  Road 3: 0.00 meters
+
+Frame 6:
+  Road 1: 34.65 meters
+  Road 2: 79.02 meters
+  Road 3: 0.00 meters
+
+Frame 7:
+  Road 1: 34.60 meters
+  Road 2: 79.66 meters
+  Road 3: 0.00 meters
+
+Frame 8:
+  Road 1: 34.52 meters
+  Road 2: 79.84 meters
+  Road 3: 0.00 meters
+
+Frame 9:
+  Road 1: 34.70 meters
+  Road 2: 79.84 meters
+  Road 3: 0.00 meters
+
+Frame 10:
+  Road 1: 34.60 meters
+  Road 2: 80.86 meters
+  Road 3: 0.00 meters
+
+Frame 11:
+  Road 1: 34.43 meters
+  Road 2: 80.98 meters
+  Road 3: 0.00 meters
+
+Frame 12:
+  Road 1: 34.12 meters
+  Road 2: 81.39 meters
+  Road 3: 0.00 meters
+
+Frame 13:
+  Road 1: 34.35 meters
+  Road 2: 82.01 meters
+  Road 3: 0.00 meters
+
+Frame 14:
+  Road 1: 34.29 meters
+  Road 2: 81.51 meters
+  Road 3: 0.00 meters
+
+Frame 15:
+  Road 1: 34.18 meters
+  Road 2: 81.80 meters
+  Road 3: 0.00 meters
+
+Frame 16:
+  Road 1: 34.14 meters
+  Road 2: 81.82 meters
+  Road 3: 0.00 meters
+
+Frame 17:
+  Road 1: 34.23 meters
+  Road 2: 81.79 meters
+  Road 3: 0.00 meters
+
+Frame 18:
+  Road 1: 33.95 meters
+  Road 2: 82.32 meters
+  Road 3: 0.00 meters
+
+Frame 19:
+  Road 1: 33.78 meters
+  Road 2: 83.17 meters
+  Road 3: 0.00 meters
+
+Frame 20:
+  Road 1: 33.79 meters
+  Road 2: 83.20 meters
+  Road 3: 0.00 meters
+
+Frame 21:
+  Road 1: 33.87 meters
+  Road 2: 83.69 meters
+  Road 3: 0.00 meters
+
+Frame 22:
+  Road 1: 33.84 meters
+  Road 2: 84.04 meters
+  Road 3: 0.00 meters
+
+Frame 23:
+  Road 1: 33.77 meters
+  Road 2: 84.86 meters
+  Road 3: 0.00 meters
+
+Frame 1:
+  Road 1: 35.04 meters
+  Road 2: 77.05 meters
+  Road 3: 0.00 meters
+
+Frame 2:
+  Road 1: 34.97 meters
+  Road 2: 77.87 meters
+  Road 3: 0.00 meters
+
+Frame 3:
+  Road 1: 34.93 meters
+  Road 2: 78.52 meters
+  Road 3: 0.00 meters
+
+Frame 4:
+  Road 1: 35.01 meters
+  Road 2: 78.80 meters
+  Road 3: 0.00 meters
+
+Frame 5:
+  Road 1: 34.87 meters
+  Road 2: 78.73 meters
+  Road 3: 0.00 meters
+
+Frame 6:
+  Road 1: 34.65 meters
+  Road 2: 79.02 meters
+  Road 3: 0.00 meters
+
+Frame 7:
+  Road 1: 34.60 meters
+  Road 2: 79.66 meters
+  Road 3: 0.00 meters
+
+Frame 8:
+  Road 1: 34.52 meters
+  Road 2: 79.84 meters
+  Road 3: 0.00 meters
+
+Frame 9:
+  Road 1: 34.70 meters
+  Road 2: 79.84 meters
+  Road 3: 0.00 meters
+
+Frame 10:
+  Road 1: 34.60 meters
+  Road 2: 80.86 meters
+  Road 3: 0.00 meters
+
+Frame 11:
+  Road 1: 34.43 meters
+  Road 2: 80.98 meters
+  Road 3: 0.00 meters
+
+Frame 12:
+  Road 1: 34.12 meters
+  Road 2: 81.39 meters
+  Road 3: 0.00 meters
+
+Frame 13:
+  Road 1: 34.35 meters
+  Road 2: 82.01 meters
+  Road 3: 0.00 meters
+
+Frame 14:
+  Road 1: 34.29 meters
+  Road 2: 81.51 meters
+  Road 3: 0.00 meters
+
+Frame 15:
+  Road 1: 34.18 meters
+  Road 2: 81.80 meters
+  Road 3: 0.00 meters
+
+Frame 16:
+  Road 1: 34.14 meters
+  Road 2: 81.82 meters
+  Road 3: 0.00 meters
+
+Frame 17:
+  Road 1: 34.23 meters
+  Road 2: 81.79 meters
+  Road 3: 0.00 meters
+
+Frame 18:
+  Road 1: 33.95 meters
+  Road 2: 82.32 meters
+  Road 3: 0.00 meters
+
+Frame 19:
+  Road 1: 33.78 meters
+  Road 2: 83.17 meters
+  Road 3: 0.00 meters
+
+Frame 20:
+  Road 1: 33.79 meters
+  Road 2: 83.20 meters
+  Road 3: 0.00 meters
+
+Frame 21:
+  Road 1: 33.87 meters
+  Road 2: 83.69 meters
+  Road 3: 0.00 meters
+
+Frame 22:
+  Road 1: 33.84 meters
+  Road 2: 84.04 meters
+  Road 3: 0.00 meters
+
+Frame 23:
+  Road 1: 33.77 meters
+  Road 2: 84.86 meters
+  Road 3: 0.00 meters
+
+Frame 24:
+  Road 1: 33.73 meters
+  Road 2: 84.92 meters
+  Road 3: 17.73 meters
+
+Frame 25:
+  Road 1: 33.48 meters
+  Road 2: 84.59 meters
+  Road 3: 0.00 meters
+
+Frame 26:
+  Road 1: 33.58 meters
+  Road 2: 83.94 meters
+  Road 3: 0.00 meters
+
+Frame 27:
+  Road 1: 33.42 meters
+  Road 2: 84.90 meters
+  Road 3: 0.00 meters
+
+Frame 28:
+  Road 1: 33.13 meters
+  Road 2: 85.01 meters
+  Road 3: 0.00 meters
+
+Frame 29:
+  Road 1: 33.01 meters
+  Road 2: 84.38 meters
+  Road 3: 0.00 meters
+
+Frame 30:
+  Road 1: 32.39 meters
+  Road 2: 82.35 meters
+  Road 3: 0.00 meters
+
+Frame 31:
+  Road 1: 32.89 meters
+  Road 2: 79.08 meters
+  Road 3: 18.89 meters
+
+Frame 32:
+  Road 1: 32.91 meters
+  Road 2: 79.53 meters
+  Road 3: 18.65 meters
+
+Frame 33:
+  Road 1: 32.96 meters
+  Road 2: 80.75 meters
+  Road 3: 0.00 meters
+
+Frame 34:
+  Road 1: 32.91 meters
+  Road 2: 81.34 meters
+  Road 3: 0.00 meters
+
+Frame 35:
+  Road 1: 32.90 meters
+  Road 2: 81.59 meters
+  Road 3: 0.00 meters
+
+Frame 36:
+  Road 1: 32.56 meters
+  Road 2: 82.01 meters
+  Road 3: 0.00 meters
+
+Frame 37:
+  Road 1: 31.58 meters
+  Road 2: 82.74 meters
+  Road 3: 0.00 meters
+
+Frame 38:
+  Road 1: 32.34 meters
+  Road 2: 82.71 meters
+  Road 3: 0.00 meters
+
+Frame 39:
+  Road 1: 31.35 meters
+  Road 2: 83.05 meters
+  Road 3: 0.00 meters
+
+Frame 40:
+  Road 1: 32.81 meters
+  Road 2: 83.18 meters
+  Road 3: 0.00 meters
+
+Frame 41:
+  Road 1: 33.43 meters
+  Road 2: 83.56 meters
+  Road 3: 0.00 meters
+
+Frame 42:
+  Road 1: 33.36 meters
+  Road 2: 83.94 meters
+  Road 3: 16.99 meters
+
+Frame 43:
+  Road 1: 29.56 meters
+  Road 2: 84.14 meters
+  Road 3: 0.00 meters
+
+Frame 44:
+  Road 1: 33.26 meters
+  Road 2: 84.19 meters
+  Road 3: 0.00 meters
+
+Frame 45:
+  Road 1: 33.01 meters
+  Road 2: 85.11 meters
+  Road 3: 18.17 meters
+
+Frame 46:
+  Road 1: 32.70 meters
+  Road 2: 71.04 meters
+  Road 3: 0.00 meters
+
+Frame 47:
+  Road 1: 32.69 meters
+  Road 2: 70.97 meters
+  Road 3: 0.00 meters
+
+Frame 48:
+  Road 1: 32.69 meters
+  Road 2: 71.17 meters
+  Road 3: 0.00 meters
+
+Frame 49:
+  Road 1: 29.89 meters
+  Road 2: 71.21 meters
+  Road 3: 20.84 meters
+
+Frame 50:
+  Road 1: 24.74 meters
+  Road 2: 71.37 meters
+  Road 3: 20.87 meters
+
+Frame 51:
+  Road 1: 29.65 meters
+  Road 2: 72.30 meters
+  Road 3: 21.05 meters
+
+Frame 52:
+  Road 1: 31.23 meters
+  Road 2: 72.13 meters
+  Road 3: 24.18 meters
+
+Frame 53:
+  Road 1: 40.56 meters
+  Road 2: 72.42 meters
+  Road 3: 24.23 meters
+
+Frame 54:
+  Road 1: 40.48 meters
+  Road 2: 72.70 meters
+  Road 3: 21.24 meters
+
+Frame 55:
+  Road 1: 40.53 meters
+  Road 2: 73.18 meters
+  Road 3: 24.43 meters
+
+Frame 56:
+  Road 1: 40.48 meters
+  Road 2: 73.46 meters
+  Road 3: 24.08 meters
+
+Frame 57:
+  Road 1: 40.07 meters
+  Road 2: 73.45 meters
+  Road 3: 24.95 meters
+
+Frame 58:
+  Road 1: 40.07 meters
+  Road 2: 73.70 meters
+  Road 3: 0.00 meters
+
+Frame 59:
+  Road 1: 40.19 meters
+  Road 2: 73.60 meters
+  Road 3: 6.49 meters
+
+Frame 60:
+  Road 1: 39.94 meters
+  Road 2: 74.38 meters
+  Road 3: 24.90 meters
+
+Frame 61:
+  Road 1: 40.07 meters
+  Road 2: 74.49 meters
+  Road 3: 0.00 meters
+
+Frame 62:
+  Road 1: 39.99 meters
+  Road 2: 74.23 meters
+  Road 3: 0.00 meters
+
+Frame 63:
+  Road 1: 39.89 meters
+  Road 2: 74.70 meters
+  Road 3: 0.00 meters
+
+Frame 64:
+  Road 1: 39.72 meters
+  Road 2: 74.06 meters
+  Road 3: 3.85 meters
+
+Frame 65:
+  Road 1: 39.74 meters
+  Road 2: 74.41 meters
+  Road 3: 0.00 meters
+
+Frame 66:
+  Road 1: 40.37 meters
+  Road 2: 74.96 meters
+  Road 3: 5.72 meters
+
+Frame 67:
+  Road 1: 40.29 meters
+  Road 2: 75.08 meters
+  Road 3: 25.54 meters
+
+Frame 68:
+  Road 1: 39.21 meters
+  Road 2: 74.79 meters
+  Road 3: 25.63 meters
+
+Frame 69:
+  Road 1: 37.78 meters
+  Road 2: 74.46 meters
+  Road 3: 26.19 meters
+
+Frame 70:
+  Road 1: 37.66 meters
+  Road 2: 74.87 meters
+  Road 3: 26.14 meters
+
+Frame 71:
+  Road 1: 37.70 meters
+  Road 2: 75.14 meters
+  Road 3: 26.51 meters
+
+Frame 72:
+  Road 1: 37.77 meters
+  Road 2: 75.76 meters
+  Road 3: 26.71 meters
+
+Frame 73:
+  Road 1: 37.74 meters
+  Road 2: 75.75 meters
+  Road 3: 26.26 meters
+
+Frame 74:
+  Road 1: 37.77 meters
+  Road 2: 76.05 meters
+  Road 3: 27.41 meters
+
+Frame 75:
+  Road 1: 32.60 meters
+  Road 2: 76.20 meters
+  Road 3: 26.63 meters
+
+Frame 76:
+  Road 1: 32.43 meters
+  Road 2: 76.58 meters
+  Road 3: 27.45 meters
+
+Frame 77:
+  Road 1: 32.47 meters
+  Road 2: 76.72 meters
+  Road 3: 27.47 meters
+
+Frame 78:
+  Road 1: 32.30 meters
+  Road 2: 76.87 meters
+  Road 3: 27.46 meters
+
+Frame 79:
+  Road 1: 32.33 meters
+  Road 2: 76.92 meters
+  Road 3: 0.00 meters
+
+Frame 80:
+  Road 1: 32.26 meters
+  Road 2: 77.51 meters
+  Road 3: 27.10 meters
+
+Frame 81:
+  Road 1: 32.33 meters
+  Road 2: 77.73 meters
+  Road 3: 27.09 meters
+
+Frame 82:
+  Road 1: 32.40 meters
+  Road 2: 77.49 meters
+  Road 3: 27.29 meters
+
+Frame 83:
+  Road 1: 32.31 meters
+  Road 2: 78.94 meters
+  Road 3: 28.29 meters
+
+Frame 84:
+  Road 1: 32.29 meters
+  Road 2: 79.57 meters
+  Road 3: 28.62 meters
+
+Frame 85:
+  Road 1: 33.19 meters
+  Road 2: 79.81 meters
+  Road 3: 28.26 meters
+
+Frame 86:
+  Road 1: 32.48 meters
+  Road 2: 80.38 meters
+  Road 3: 27.75 meters
+
+Frame 87:
+  Road 1: 32.39 meters
+  Road 2: 80.37 meters
+  Road 3: 27.94 meters
+
+Frame 88:
+  Road 1: 32.36 meters
+  Road 2: 80.09 meters
+  Road 3: 25.23 meters
+
+Frame 89:
+  Road 1: 32.38 meters
+  Road 2: 80.33 meters
+  Road 3: 25.77 meters
+
+Frame 90:
+  Road 1: 32.62 meters
+  Road 2: 80.76 meters
+  Road 3: 28.41 meters
+
+Frame 91:
+  Road 1: 32.59 meters
+  Road 2: 80.38 meters
+  Road 3: 26.07 meters
+
+Frame 92:
+  Road 1: 32.76 meters
+  Road 2: 80.04 meters
+  Road 3: 26.06 meters
+
+Frame 93:
+  Road 1: 33.19 meters
+  Road 2: 80.28 meters
+  Road 3: 25.96 meters
+
+Frame 94:
+  Road 1: 33.01 meters
+  Road 2: 80.79 meters
+  Road 3: 25.87 meters
+
+Frame 1:
+  Road 1: 13.03 meters
+  Road 2: 0.00 meters
+  Road 3: 6.05 meters
+
+Frame 2:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 5.95 meters
+
+Frame 3:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 4:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.85 meters
+
+Frame 5:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 6:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.45 meters
+
+Frame 7:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.45 meters
+
+Frame 8:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.35 meters
+
+Frame 9:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.50 meters
+
+Frame 10:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.55 meters
+
+Frame 11:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.65 meters
+
+Frame 12:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.50 meters
+
+Frame 13:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.70 meters
+
+Frame 14:
+  Road 1: 12.85 meters
+  Road 2: 0.00 meters
+  Road 3: 6.75 meters
+
+Frame 15:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.75 meters
+
+Frame 16:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.90 meters
+
+Frame 17:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.80 meters
+
+Frame 18:
+  Road 1: 11.47 meters
+  Road 2: 0.00 meters
+  Road 3: 6.95 meters
+
+Frame 19:
+  Road 1: 11.35 meters
+  Road 2: 0.00 meters
+  Road 3: 6.85 meters
+
+Frame 20:
+  Road 1: 11.42 meters
+  Road 2: 0.00 meters
+  Road 3: 6.80 meters
+
+Frame 21:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.90 meters
+
+Frame 22:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.90 meters
+
+Frame 23:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.90 meters
+
+Frame 24:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.85 meters
+
+Frame 25:
+  Road 1: 10.85 meters
+  Road 2: 0.00 meters
+  Road 3: 6.85 meters
+
+Frame 26:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.80 meters
+
+Frame 27:
+  Road 1: 10.95 meters
+  Road 2: 0.00 meters
+  Road 3: 6.85 meters
+
+Frame 28:
+  Road 1: 11.16 meters
+  Road 2: 0.00 meters
+  Road 3: 6.80 meters
+
+Frame 29:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.85 meters
+
+Frame 30:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.55 meters
+
+Frame 31:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.95 meters
+
+Frame 32:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.90 meters
+
+Frame 33:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.90 meters
+
+Frame 34:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.95 meters
+
+Frame 35:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.95 meters
+
+Frame 36:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.00 meters
+
+Frame 37:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.05 meters
+
+Frame 38:
+  Road 1: 3.42 meters
+  Road 2: 0.00 meters
+  Road 3: 7.00 meters
+
+Frame 39:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.05 meters
+
+Frame 40:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.10 meters
+
+Frame 41:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.15 meters
+
+Frame 42:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.25 meters
+
+Frame 43:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.25 meters
+
+Frame 44:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.25 meters
+
+Frame 45:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.30 meters
+
+Frame 46:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.20 meters
+
+Frame 47:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.20 meters
+
+Frame 48:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.30 meters
+
+Frame 49:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.45 meters
+
+Frame 50:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.45 meters
+
+Frame 51:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.50 meters
+
+Frame 52:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.55 meters
+
+Frame 53:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.55 meters
+
+Frame 54:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.65 meters
+
+Frame 55:
+  Road 1: 3.10 meters
+  Road 2: 0.00 meters
+  Road 3: 7.75 meters
+
+Frame 56:
+  Road 1: 3.50 meters
+  Road 2: 0.00 meters
+  Road 3: 6.63 meters
+
+Frame 57:
+  Road 1: 3.35 meters
+  Road 2: 0.00 meters
+  Road 3: 7.80 meters
+
+Frame 58:
+  Road 1: 3.45 meters
+  Road 2: 0.00 meters
+  Road 3: 7.85 meters
+
+Frame 59:
+  Road 1: 3.30 meters
+  Road 2: 0.00 meters
+  Road 3: 7.85 meters
+
+Frame 60:
+  Road 1: 3.70 meters
+  Road 2: 0.00 meters
+  Road 3: 7.90 meters
+
+Frame 61:
+  Road 1: 9.80 meters
+  Road 2: 0.00 meters
+  Road 3: 7.95 meters
+
+Frame 62:
+  Road 1: 10.08 meters
+  Road 2: 0.00 meters
+  Road 3: 7.96 meters
+
+Frame 63:
+  Road 1: 10.48 meters
+  Road 2: 0.00 meters
+  Road 3: 8.00 meters
+
+Frame 64:
+  Road 1: 9.72 meters
+  Road 2: 0.00 meters
+  Road 3: 7.96 meters
+
+Frame 65:
+  Road 1: 9.37 meters
+  Road 2: 0.00 meters
+  Road 3: 7.91 meters
+
+Frame 66:
+  Road 1: 9.73 meters
+  Road 2: 0.00 meters
+  Road 3: 7.86 meters
+
+Frame 67:
+  Road 1: 9.16 meters
+  Road 2: 0.00 meters
+  Road 3: 8.16 meters
+
+Frame 68:
+  Road 1: 8.72 meters
+  Road 2: 0.00 meters
+  Road 3: 8.16 meters
+
+Frame 69:
+  Road 1: 8.83 meters
+  Road 2: 0.00 meters
+  Road 3: 7.36 meters
+
+Frame 70:
+  Road 1: 10.30 meters
+  Road 2: 3.36 meters
+  Road 3: 0.00 meters
+
+Frame 71:
+  Road 1: 10.50 meters
+  Road 2: 3.36 meters
+  Road 3: 0.00 meters
+
+Frame 72:
+  Road 1: 10.10 meters
+  Road 2: 3.05 meters
+  Road 3: 0.00 meters
+
+Frame 73:
+  Road 1: 10.55 meters
+  Road 2: 2.95 meters
+  Road 3: 0.00 meters
+
+Frame 74:
+  Road 1: 10.85 meters
+  Road 2: 4.48 meters
+  Road 3: 0.00 meters
+
+Frame 75:
+  Road 1: 9.45 meters
+  Road 2: 4.40 meters
+  Road 3: 0.00 meters
+
+Frame 76:
+  Road 1: 10.35 meters
+  Road 2: 4.22 meters
+  Road 3: 0.00 meters
+
+Frame 77:
+  Road 1: 0.00 meters
+  Road 2: 4.30 meters
+  Road 3: 0.00 meters
+
+Frame 78:
+  Road 1: 0.00 meters
+  Road 2: 2.90 meters
+  Road 3: 0.00 meters
+
+Frame 79:
+  Road 1: 8.31 meters
+  Road 2: 2.85 meters
+  Road 3: 0.00 meters
+
+Frame 80:
+  Road 1: 8.50 meters
+  Road 2: 2.75 meters
+  Road 3: 0.00 meters
+
+Frame 81:
+  Road 1: 7.45 meters
+  Road 2: 2.95 meters
+  Road 3: 0.00 meters
+
+Frame 82:
+  Road 1: 6.50 meters
+  Road 2: 2.95 meters
+  Road 3: 0.00 meters
+
+Frame 83:
+  Road 1: 5.95 meters
+  Road 2: 2.90 meters
+  Road 3: 0.00 meters
+
+Frame 84:
+  Road 1: 0.00 meters
+  Road 2: 3.05 meters
+  Road 3: 0.00 meters
+
+Frame 85:
+  Road 1: 10.24 meters
+  Road 2: 2.95 meters
+  Road 3: 0.00 meters
+
+Frame 1:
+  Road 1: 13.03 meters
+  Road 2: 0.00 meters
+  Road 3: 6.05 meters
+
+Frame 2:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 5.95 meters
+
+Frame 3:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 4:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.85 meters
+
+Frame 5:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 6:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.45 meters
+
+Frame 7:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.45 meters
+
+Frame 8:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.35 meters
+
+Frame 9:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.50 meters
+
+Frame 10:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.55 meters
+
+Frame 11:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.65 meters
+
+Frame 12:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.50 meters
+
+Frame 13:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.70 meters
+
+Frame 14:
+  Road 1: 12.85 meters
+  Road 2: 0.00 meters
+  Road 3: 6.75 meters
+
+Frame 15:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.75 meters
+
+Frame 16:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.90 meters
+
+Frame 17:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.80 meters
+
+Frame 18:
+  Road 1: 11.47 meters
+  Road 2: 0.00 meters
+  Road 3: 6.95 meters
+
+Frame 19:
+  Road 1: 11.35 meters
+  Road 2: 0.00 meters
+  Road 3: 6.85 meters
+
+Frame 20:
+  Road 1: 11.42 meters
+  Road 2: 0.00 meters
+  Road 3: 6.80 meters
+
+Frame 21:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.90 meters
+
+Frame 22:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.90 meters
+
+Frame 23:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.90 meters
+
+Frame 24:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.85 meters
+
+Frame 25:
+  Road 1: 10.85 meters
+  Road 2: 0.00 meters
+  Road 3: 6.85 meters
+
+Frame 26:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.80 meters
+
+Frame 27:
+  Road 1: 10.95 meters
+  Road 2: 0.00 meters
+  Road 3: 6.85 meters
+
+Frame 28:
+  Road 1: 11.16 meters
+  Road 2: 0.00 meters
+  Road 3: 6.80 meters
+
+Frame 29:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.85 meters
+
+Frame 30:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.55 meters
+
+Frame 31:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.95 meters
+
+Frame 32:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.90 meters
+
+Frame 33:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.90 meters
+
+Frame 34:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.95 meters
+
+Frame 35:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.95 meters
+
+Frame 36:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.00 meters
+
+Frame 37:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.05 meters
+
+Frame 38:
+  Road 1: 3.42 meters
+  Road 2: 0.00 meters
+  Road 3: 7.00 meters
+
+Frame 39:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.05 meters
+
+Frame 40:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.10 meters
+
+Frame 41:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.15 meters
+
+Frame 42:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.25 meters
+
+Frame 43:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.25 meters
+
+Frame 44:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.25 meters
+
+Frame 45:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.30 meters
+
+Frame 46:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.20 meters
+
+Frame 47:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.20 meters
+
+Frame 48:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.30 meters
+
+Frame 49:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.45 meters
+
+Frame 50:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.45 meters
+
+Frame 51:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.50 meters
+
+Frame 52:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.55 meters
+
+Frame 53:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.55 meters
+
+Frame 54:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.65 meters
+
+Frame 55:
+  Road 1: 3.10 meters
+  Road 2: 0.00 meters
+  Road 3: 7.75 meters
+
+Frame 56:
+  Road 1: 3.50 meters
+  Road 2: 0.00 meters
+  Road 3: 6.63 meters
+
+Frame 57:
+  Road 1: 3.35 meters
+  Road 2: 0.00 meters
+  Road 3: 7.80 meters
+
+Frame 58:
+  Road 1: 3.45 meters
+  Road 2: 0.00 meters
+  Road 3: 7.85 meters
+
+Frame 59:
+  Road 1: 3.30 meters
+  Road 2: 0.00 meters
+  Road 3: 7.85 meters
+
+Frame 60:
+  Road 1: 3.70 meters
+  Road 2: 0.00 meters
+  Road 3: 7.90 meters
+
+Frame 61:
+  Road 1: 9.80 meters
+  Road 2: 0.00 meters
+  Road 3: 7.95 meters
+
+Frame 62:
+  Road 1: 10.08 meters
+  Road 2: 0.00 meters
+  Road 3: 7.96 meters
+
+Frame 63:
+  Road 1: 10.48 meters
+  Road 2: 0.00 meters
+  Road 3: 8.00 meters
+
+Frame 64:
+  Road 1: 9.72 meters
+  Road 2: 0.00 meters
+  Road 3: 7.96 meters
+
+Frame 65:
+  Road 1: 9.37 meters
+  Road 2: 0.00 meters
+  Road 3: 7.91 meters
+
+Frame 66:
+  Road 1: 9.73 meters
+  Road 2: 0.00 meters
+  Road 3: 7.86 meters
+
+Frame 67:
+  Road 1: 9.16 meters
+  Road 2: 0.00 meters
+  Road 3: 8.16 meters
+
+Frame 68:
+  Road 1: 8.72 meters
+  Road 2: 0.00 meters
+  Road 3: 8.16 meters
+
+Frame 69:
+  Road 1: 8.83 meters
+  Road 2: 0.00 meters
+  Road 3: 7.36 meters
+
+Frame 70:
+  Road 1: 10.30 meters
+  Road 2: 3.36 meters
+  Road 3: 0.00 meters
+
+Frame 71:
+  Road 1: 10.50 meters
+  Road 2: 3.36 meters
+  Road 3: 0.00 meters
+
+Frame 72:
+  Road 1: 10.10 meters
+  Road 2: 3.05 meters
+  Road 3: 0.00 meters
+
+Frame 73:
+  Road 1: 10.55 meters
+  Road 2: 2.95 meters
+  Road 3: 0.00 meters
+
+Frame 74:
+  Road 1: 10.85 meters
+  Road 2: 4.48 meters
+  Road 3: 0.00 meters
+
+Frame 75:
+  Road 1: 9.45 meters
+  Road 2: 4.40 meters
+  Road 3: 0.00 meters
+
+Frame 76:
+  Road 1: 10.35 meters
+  Road 2: 4.22 meters
+  Road 3: 0.00 meters
+
+Frame 77:
+  Road 1: 0.00 meters
+  Road 2: 4.30 meters
+  Road 3: 0.00 meters
+
+Frame 78:
+  Road 1: 0.00 meters
+  Road 2: 2.90 meters
+  Road 3: 0.00 meters
+
+Frame 79:
+  Road 1: 8.31 meters
+  Road 2: 2.85 meters
+  Road 3: 0.00 meters
+
+Frame 80:
+  Road 1: 8.50 meters
+  Road 2: 2.75 meters
+  Road 3: 0.00 meters
+
+Frame 81:
+  Road 1: 7.45 meters
+  Road 2: 2.95 meters
+  Road 3: 0.00 meters
+
+Frame 82:
+  Road 1: 6.50 meters
+  Road 2: 2.95 meters
+  Road 3: 0.00 meters
+
+Frame 83:
+  Road 1: 5.95 meters
+  Road 2: 2.90 meters
+  Road 3: 0.00 meters
+
+Frame 84:
+  Road 1: 0.00 meters
+  Road 2: 3.05 meters
+  Road 3: 0.00 meters
+
+Frame 85:
+  Road 1: 10.24 meters
+  Road 2: 2.95 meters
+  Road 3: 0.00 meters
+
+Frame 86:
+  Road 1: 10.05 meters
+  Road 2: 3.61 meters
+  Road 3: 0.00 meters
+
+Frame 87:
+  Road 1: 10.25 meters
+  Road 2: 3.50 meters
+  Road 3: 0.00 meters
+
+Frame 88:
+  Road 1: 0.00 meters
+  Road 2: 2.75 meters
+  Road 3: 0.00 meters
+
+Frame 89:
+  Road 1: 0.00 meters
+  Road 2: 2.50 meters
+  Road 3: 0.00 meters
+
+Frame 90:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 91:
+  Road 1: 2.02 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 92:
+  Road 1: 0.00 meters
+  Road 2: 2.40 meters
+  Road 3: 0.00 meters
+
+Frame 93:
+  Road 1: 2.08 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 94:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 95:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 96:
+  Road 1: 0.81 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 97:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 98:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 99:
+  Road 1: 3.10 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 100:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 101:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 102:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 103:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 104:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 105:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 106:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 107:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 108:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 109:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 110:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 111:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 112:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 113:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 114:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 115:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 116:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 117:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 118:
+  Road 1: 12.27 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 119:
+  Road 1: 0.00 meters
+  Road 2: 1.15 meters
+  Road 3: 0.00 meters
+
+Frame 120:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 121:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 122:
+  Road 1: 0.00 meters
+  Road 2: 0.90 meters
+  Road 3: 0.00 meters
+
+Frame 123:
+  Road 1: 0.00 meters
+  Road 2: 1.60 meters
+  Road 3: 0.00 meters
+
+Frame 124:
+  Road 1: 0.00 meters
+  Road 2: 1.60 meters
+  Road 3: 0.00 meters
+
+Frame 125:
+  Road 1: 0.00 meters
+  Road 2: 0.91 meters
+  Road 3: 0.00 meters
+
+Frame 126:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 127:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 128:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 129:
+  Road 1: 5.40 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 130:
+  Road 1: 5.49 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 131:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 132:
+  Road 1: 5.91 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 133:
+  Road 1: 5.94 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 134:
+  Road 1: 6.63 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 135:
+  Road 1: 6.10 meters
+  Road 2: 2.10 meters
+  Road 3: 0.00 meters
+
+Frame 136:
+  Road 1: 6.42 meters
+  Road 2: 1.90 meters
+  Road 3: 0.00 meters
+
+Frame 137:
+  Road 1: 6.42 meters
+  Road 2: 1.70 meters
+  Road 3: 0.00 meters
+
+Frame 138:
+  Road 1: 6.88 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 139:
+  Road 1: 6.13 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 140:
+  Road 1: 6.88 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 141:
+  Road 1: 4.16 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 142:
+  Road 1: 4.21 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 143:
+  Road 1: 6.22 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 144:
+  Road 1: 6.31 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 145:
+  Road 1: 6.12 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 146:
+  Road 1: 6.27 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 147:
+  Road 1: 6.05 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 148:
+  Road 1: 6.05 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 149:
+  Road 1: 6.05 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 150:
+  Road 1: 6.10 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 151:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 152:
+  Road 1: 6.35 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 153:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 154:
+  Road 1: 12.82 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 155:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 156:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 157:
+  Road 1: 12.66 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 158:
+  Road 1: 12.71 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 159:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 160:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 161:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 162:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 163:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 164:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 165:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 166:
+  Road 1: 6.90 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 167:
+  Road 1: 6.90 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 168:
+  Road 1: 6.90 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 169:
+  Road 1: 6.90 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 170:
+  Road 1: 6.85 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 171:
+  Road 1: 6.85 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 172:
+  Road 1: 13.11 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 173:
+  Road 1: 6.80 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 174:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 175:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 176:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 177:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 178:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 179:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 180:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 181:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 182:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 183:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 184:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 185:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 186:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 187:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 188:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 189:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 190:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 191:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 192:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 193:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 194:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 195:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 196:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 197:
+  Road 1: 2.36 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 198:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 199:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 200:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 201:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 202:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 203:
+  Road 1: 3.30 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 204:
+  Road 1: 3.15 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 205:
+  Road 1: 3.55 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 206:
+  Road 1: 3.50 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 207:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 208:
+  Road 1: 3.35 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 209:
+  Road 1: 3.35 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 210:
+  Road 1: 3.45 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 211:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 212:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 213:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 214:
+  Road 1: 3.91 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 215:
+  Road 1: 3.71 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 216:
+  Road 1: 3.26 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 217:
+  Road 1: 3.25 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 218:
+  Road 1: 3.51 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 219:
+  Road 1: 3.35 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 220:
+  Road 1: 4.35 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 221:
+  Road 1: 5.05 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 222:
+  Road 1: 3.85 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 223:
+  Road 1: 3.66 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 224:
+  Road 1: 3.80 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 225:
+  Road 1: 5.21 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 226:
+  Road 1: 5.41 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 227:
+  Road 1: 5.41 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 228:
+  Road 1: 4.75 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 229:
+  Road 1: 4.60 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 230:
+  Road 1: 4.60 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 231:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 232:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 233:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 234:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 235:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 236:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 237:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 238:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 239:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 240:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 241:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 242:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 243:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 244:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 245:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 246:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 247:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 248:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 249:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 250:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 251:
+  Road 1: 0.27 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 252:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 253:
+  Road 1: 1.25 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 254:
+  Road 1: 1.35 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 255:
+  Road 1: 1.65 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 256:
+  Road 1: 1.35 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 257:
+  Road 1: 1.65 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 258:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 259:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 1.48 meters
+
+Frame 260:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 261:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 262:
+  Road 1: 2.15 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 263:
+  Road 1: 2.45 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 264:
+  Road 1: 3.15 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 265:
+  Road 1: 2.50 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 266:
+  Road 1: 2.75 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 267:
+  Road 1: 2.05 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 268:
+  Road 1: 2.70 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 269:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 270:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 271:
+  Road 1: 2.95 meters
+  Road 2: 0.00 meters
+  Road 3: 6.48 meters
+
+Frame 272:
+  Road 1: 3.40 meters
+  Road 2: 0.00 meters
+  Road 3: 6.48 meters
+
+Frame 273:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.10 meters
+
+Frame 274:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 275:
+  Road 1: 1.60 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 276:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.04 meters
+
+Frame 277:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 1:
+  Road 1: 13.03 meters
+  Road 2: 0.00 meters
+  Road 3: 6.05 meters
+
+Frame 2:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 5.95 meters
+
+Frame 3:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 4:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.85 meters
+
+Frame 5:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 6:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.45 meters
+
+Frame 7:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.45 meters
+
+Frame 8:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.35 meters
+
+Frame 9:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.50 meters
+
+Frame 10:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.55 meters
+
+Frame 11:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.65 meters
+
+Frame 12:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.50 meters
+
+Frame 13:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.70 meters
+
+Frame 14:
+  Road 1: 12.85 meters
+  Road 2: 0.00 meters
+  Road 3: 6.75 meters
+
+Frame 15:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.75 meters
+
+Frame 16:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.90 meters
+
+Frame 17:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.80 meters
+
+Frame 18:
+  Road 1: 11.47 meters
+  Road 2: 0.00 meters
+  Road 3: 6.95 meters
+
+Frame 19:
+  Road 1: 11.35 meters
+  Road 2: 0.00 meters
+  Road 3: 6.85 meters
+
+Frame 20:
+  Road 1: 11.42 meters
+  Road 2: 0.00 meters
+  Road 3: 6.80 meters
+
+Frame 21:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.90 meters
+
+Frame 22:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.90 meters
+
+Frame 23:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.90 meters
+
+Frame 24:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.85 meters
+
+Frame 25:
+  Road 1: 10.85 meters
+  Road 2: 0.00 meters
+  Road 3: 6.85 meters
+
+Frame 26:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.80 meters
+
+Frame 27:
+  Road 1: 10.95 meters
+  Road 2: 0.00 meters
+  Road 3: 6.85 meters
+
+Frame 28:
+  Road 1: 11.16 meters
+  Road 2: 0.00 meters
+  Road 3: 6.80 meters
+
+Frame 29:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.85 meters
+
+Frame 30:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.55 meters
+
+Frame 31:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.95 meters
+
+Frame 32:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.90 meters
+
+Frame 33:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.90 meters
+
+Frame 34:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.95 meters
+
+Frame 35:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.95 meters
+
+Frame 36:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.00 meters
+
+Frame 37:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.05 meters
+
+Frame 38:
+  Road 1: 3.42 meters
+  Road 2: 0.00 meters
+  Road 3: 7.00 meters
+
+Frame 39:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.05 meters
+
+Frame 40:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.10 meters
+
+Frame 41:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.15 meters
+
+Frame 42:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.25 meters
+
+Frame 43:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.25 meters
+
+Frame 44:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.25 meters
+
+Frame 45:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.30 meters
+
+Frame 46:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.20 meters
+
+Frame 47:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.20 meters
+
+Frame 48:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.30 meters
+
+Frame 49:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.45 meters
+
+Frame 50:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.45 meters
+
+Frame 51:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.50 meters
+
+Frame 52:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.55 meters
+
+Frame 53:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.55 meters
+
+Frame 54:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.65 meters
+
+Frame 55:
+  Road 1: 3.10 meters
+  Road 2: 0.00 meters
+  Road 3: 7.75 meters
+
+Frame 56:
+  Road 1: 3.50 meters
+  Road 2: 0.00 meters
+  Road 3: 6.63 meters
+
+Frame 57:
+  Road 1: 3.35 meters
+  Road 2: 0.00 meters
+  Road 3: 7.80 meters
+
+Frame 58:
+  Road 1: 3.45 meters
+  Road 2: 0.00 meters
+  Road 3: 7.85 meters
+
+Frame 59:
+  Road 1: 3.30 meters
+  Road 2: 0.00 meters
+  Road 3: 7.85 meters
+
+Frame 60:
+  Road 1: 3.70 meters
+  Road 2: 0.00 meters
+  Road 3: 7.90 meters
+
+Frame 61:
+  Road 1: 9.80 meters
+  Road 2: 0.00 meters
+  Road 3: 7.95 meters
+
+Frame 62:
+  Road 1: 10.08 meters
+  Road 2: 0.00 meters
+  Road 3: 7.96 meters
+
+Frame 63:
+  Road 1: 10.48 meters
+  Road 2: 0.00 meters
+  Road 3: 8.00 meters
+
+Frame 64:
+  Road 1: 9.72 meters
+  Road 2: 0.00 meters
+  Road 3: 7.96 meters
+
+Frame 65:
+  Road 1: 9.37 meters
+  Road 2: 0.00 meters
+  Road 3: 7.91 meters
+
+Frame 66:
+  Road 1: 9.73 meters
+  Road 2: 0.00 meters
+  Road 3: 7.86 meters
+
+Frame 67:
+  Road 1: 9.16 meters
+  Road 2: 0.00 meters
+  Road 3: 8.16 meters
+
+Frame 68:
+  Road 1: 8.72 meters
+  Road 2: 0.00 meters
+  Road 3: 8.16 meters
+
+Frame 69:
+  Road 1: 8.83 meters
+  Road 2: 0.00 meters
+  Road 3: 7.36 meters
+
+Frame 70:
+  Road 1: 10.30 meters
+  Road 2: 3.36 meters
+  Road 3: 0.00 meters
+
+Frame 71:
+  Road 1: 10.50 meters
+  Road 2: 3.36 meters
+  Road 3: 0.00 meters
+
+Frame 72:
+  Road 1: 10.10 meters
+  Road 2: 3.05 meters
+  Road 3: 0.00 meters
+
+Frame 73:
+  Road 1: 10.55 meters
+  Road 2: 2.95 meters
+  Road 3: 0.00 meters
+
+Frame 74:
+  Road 1: 10.85 meters
+  Road 2: 4.48 meters
+  Road 3: 0.00 meters
+
+Frame 75:
+  Road 1: 9.45 meters
+  Road 2: 4.40 meters
+  Road 3: 0.00 meters
+
+Frame 76:
+  Road 1: 10.35 meters
+  Road 2: 4.22 meters
+  Road 3: 0.00 meters
+
+Frame 77:
+  Road 1: 0.00 meters
+  Road 2: 4.30 meters
+  Road 3: 0.00 meters
+
+Frame 78:
+  Road 1: 0.00 meters
+  Road 2: 2.90 meters
+  Road 3: 0.00 meters
+
+Frame 79:
+  Road 1: 8.31 meters
+  Road 2: 2.85 meters
+  Road 3: 0.00 meters
+
+Frame 80:
+  Road 1: 8.50 meters
+  Road 2: 2.75 meters
+  Road 3: 0.00 meters
+
+Frame 81:
+  Road 1: 7.45 meters
+  Road 2: 2.95 meters
+  Road 3: 0.00 meters
+
+Frame 82:
+  Road 1: 6.50 meters
+  Road 2: 2.95 meters
+  Road 3: 0.00 meters
+
+Frame 83:
+  Road 1: 5.95 meters
+  Road 2: 2.90 meters
+  Road 3: 0.00 meters
+
+Frame 84:
+  Road 1: 0.00 meters
+  Road 2: 3.05 meters
+  Road 3: 0.00 meters
+
+Frame 85:
+  Road 1: 10.24 meters
+  Road 2: 2.95 meters
+  Road 3: 0.00 meters
+
+Frame 86:
+  Road 1: 10.05 meters
+  Road 2: 3.61 meters
+  Road 3: 0.00 meters
+
+Frame 87:
+  Road 1: 10.25 meters
+  Road 2: 3.50 meters
+  Road 3: 0.00 meters
+
+Frame 88:
+  Road 1: 0.00 meters
+  Road 2: 2.75 meters
+  Road 3: 0.00 meters
+
+Frame 89:
+  Road 1: 0.00 meters
+  Road 2: 2.50 meters
+  Road 3: 0.00 meters
+
+Frame 90:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 91:
+  Road 1: 2.02 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 92:
+  Road 1: 0.00 meters
+  Road 2: 2.40 meters
+  Road 3: 0.00 meters
+
+Frame 93:
+  Road 1: 2.08 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 94:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 95:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 96:
+  Road 1: 0.81 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 97:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 98:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 99:
+  Road 1: 3.10 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 100:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 101:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 102:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 103:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 104:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 105:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 106:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 107:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 108:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 109:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 110:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 111:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 112:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 113:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 114:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 115:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 116:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 117:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 118:
+  Road 1: 12.27 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 119:
+  Road 1: 0.00 meters
+  Road 2: 1.15 meters
+  Road 3: 0.00 meters
+
+Frame 120:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 121:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 122:
+  Road 1: 0.00 meters
+  Road 2: 0.90 meters
+  Road 3: 0.00 meters
+
+Frame 123:
+  Road 1: 0.00 meters
+  Road 2: 1.60 meters
+  Road 3: 0.00 meters
+
+Frame 124:
+  Road 1: 0.00 meters
+  Road 2: 1.60 meters
+  Road 3: 0.00 meters
+
+Frame 125:
+  Road 1: 0.00 meters
+  Road 2: 0.91 meters
+  Road 3: 0.00 meters
+
+Frame 126:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 127:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 128:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 129:
+  Road 1: 5.40 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 130:
+  Road 1: 5.49 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 131:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 132:
+  Road 1: 5.91 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 133:
+  Road 1: 5.94 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 134:
+  Road 1: 6.63 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 135:
+  Road 1: 6.10 meters
+  Road 2: 2.10 meters
+  Road 3: 0.00 meters
+
+Frame 136:
+  Road 1: 6.42 meters
+  Road 2: 1.90 meters
+  Road 3: 0.00 meters
+
+Frame 137:
+  Road 1: 6.42 meters
+  Road 2: 1.70 meters
+  Road 3: 0.00 meters
+
+Frame 138:
+  Road 1: 6.88 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 139:
+  Road 1: 6.13 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 140:
+  Road 1: 6.88 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 141:
+  Road 1: 4.16 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 142:
+  Road 1: 4.21 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 143:
+  Road 1: 6.22 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 144:
+  Road 1: 6.31 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 145:
+  Road 1: 6.12 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 146:
+  Road 1: 6.27 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 147:
+  Road 1: 6.05 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 148:
+  Road 1: 6.05 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 149:
+  Road 1: 6.05 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 150:
+  Road 1: 6.10 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 151:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 152:
+  Road 1: 6.35 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 153:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 154:
+  Road 1: 12.82 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 155:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 156:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 157:
+  Road 1: 12.66 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 158:
+  Road 1: 12.71 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 159:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 160:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 161:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 162:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 163:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 164:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 165:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 166:
+  Road 1: 6.90 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 167:
+  Road 1: 6.90 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 168:
+  Road 1: 6.90 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 169:
+  Road 1: 6.90 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 170:
+  Road 1: 6.85 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 171:
+  Road 1: 6.85 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 172:
+  Road 1: 13.11 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 173:
+  Road 1: 6.80 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 174:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 175:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 176:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 177:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 178:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 179:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 180:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 181:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 182:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 183:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 184:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 185:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 186:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 187:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 188:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 189:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 190:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 191:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 192:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 193:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 194:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 195:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 196:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 197:
+  Road 1: 2.36 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 198:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 199:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 200:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 201:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 202:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 203:
+  Road 1: 3.30 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 204:
+  Road 1: 3.15 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 205:
+  Road 1: 3.55 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 206:
+  Road 1: 3.50 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 207:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 208:
+  Road 1: 3.35 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 1:
+  Road 1: 13.03 meters
+  Road 2: 0.00 meters
+  Road 3: 6.05 meters
+
+Frame 2:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 5.95 meters
+
+Frame 3:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 4:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.85 meters
+
+Frame 5:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 6:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.45 meters
+
+Frame 7:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.45 meters
+
+Frame 8:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.35 meters
+
+Frame 9:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.50 meters
+
+Frame 10:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.55 meters
+
+Frame 11:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.65 meters
+
+Frame 12:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.50 meters
+
+Frame 13:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.70 meters
+
+Frame 14:
+  Road 1: 12.85 meters
+  Road 2: 0.00 meters
+  Road 3: 6.75 meters
+
+Frame 15:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.75 meters
+
+Frame 16:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.90 meters
+
+Frame 17:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.80 meters
+
+Frame 18:
+  Road 1: 11.47 meters
+  Road 2: 0.00 meters
+  Road 3: 6.95 meters
+
+Frame 19:
+  Road 1: 11.35 meters
+  Road 2: 0.00 meters
+  Road 3: 6.85 meters
+
+Frame 20:
+  Road 1: 11.42 meters
+  Road 2: 0.00 meters
+  Road 3: 6.80 meters
+
+Frame 21:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.90 meters
+
+Frame 22:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.90 meters
+
+Frame 23:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.90 meters
+
+Frame 24:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.85 meters
+
+Frame 25:
+  Road 1: 10.85 meters
+  Road 2: 0.00 meters
+  Road 3: 6.85 meters
+
+Frame 26:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.80 meters
+
+Frame 27:
+  Road 1: 10.95 meters
+  Road 2: 0.00 meters
+  Road 3: 6.85 meters
+
+Frame 28:
+  Road 1: 11.16 meters
+  Road 2: 0.00 meters
+  Road 3: 6.80 meters
+
+Frame 29:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.85 meters
+
+Frame 30:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.55 meters
+
+Frame 31:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.95 meters
+
+Frame 32:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.90 meters
+
+Frame 33:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.90 meters
+
+Frame 34:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.95 meters
+
+Frame 35:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.95 meters
+
+Frame 36:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.00 meters
+
+Frame 37:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.05 meters
+
+Frame 38:
+  Road 1: 3.42 meters
+  Road 2: 0.00 meters
+  Road 3: 7.00 meters
+
+Frame 39:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.05 meters
+
+Frame 40:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.10 meters
+
+Frame 41:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.15 meters
+
+Frame 42:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.25 meters
+
+Frame 43:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.25 meters
+
+Frame 44:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.25 meters
+
+Frame 45:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.30 meters
+
+Frame 46:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.20 meters
+
+Frame 47:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.20 meters
+
+Frame 48:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.30 meters
+
+Frame 49:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.45 meters
+
+Frame 50:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.45 meters
+
+Frame 51:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.50 meters
+
+Frame 52:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.55 meters
+
+Frame 53:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.55 meters
+
+Frame 54:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 7.65 meters
+
+Frame 55:
+  Road 1: 3.10 meters
+  Road 2: 0.00 meters
+  Road 3: 7.75 meters
+
+Frame 56:
+  Road 1: 3.50 meters
+  Road 2: 0.00 meters
+  Road 3: 6.63 meters
+
+Frame 57:
+  Road 1: 3.35 meters
+  Road 2: 0.00 meters
+  Road 3: 7.80 meters
+
+Frame 58:
+  Road 1: 3.45 meters
+  Road 2: 0.00 meters
+  Road 3: 7.85 meters
+
+Frame 59:
+  Road 1: 3.30 meters
+  Road 2: 0.00 meters
+  Road 3: 7.85 meters
+
+Frame 60:
+  Road 1: 3.70 meters
+  Road 2: 0.00 meters
+  Road 3: 7.90 meters
+
+Frame 61:
+  Road 1: 9.80 meters
+  Road 2: 0.00 meters
+  Road 3: 7.95 meters
+
+Frame 62:
+  Road 1: 10.08 meters
+  Road 2: 0.00 meters
+  Road 3: 7.96 meters
+
+Frame 63:
+  Road 1: 10.48 meters
+  Road 2: 0.00 meters
+  Road 3: 8.00 meters
+
+Frame 64:
+  Road 1: 9.72 meters
+  Road 2: 0.00 meters
+  Road 3: 7.96 meters
+
+Frame 65:
+  Road 1: 9.37 meters
+  Road 2: 0.00 meters
+  Road 3: 7.91 meters
+
+Frame 66:
+  Road 1: 9.73 meters
+  Road 2: 0.00 meters
+  Road 3: 7.86 meters
+
+Frame 67:
+  Road 1: 9.16 meters
+  Road 2: 0.00 meters
+  Road 3: 8.16 meters
+
+Frame 68:
+  Road 1: 8.72 meters
+  Road 2: 0.00 meters
+  Road 3: 8.16 meters
+
+Frame 69:
+  Road 1: 8.83 meters
+  Road 2: 0.00 meters
+  Road 3: 7.36 meters
+
+Frame 70:
+  Road 1: 10.30 meters
+  Road 2: 3.36 meters
+  Road 3: 0.00 meters
+
+Frame 71:
+  Road 1: 10.50 meters
+  Road 2: 3.36 meters
+  Road 3: 0.00 meters
+
+Frame 72:
+  Road 1: 10.10 meters
+  Road 2: 3.05 meters
+  Road 3: 0.00 meters
+
+Frame 73:
+  Road 1: 10.55 meters
+  Road 2: 2.95 meters
+  Road 3: 0.00 meters
+
+Frame 74:
+  Road 1: 10.85 meters
+  Road 2: 4.48 meters
+  Road 3: 0.00 meters
+
+Frame 75:
+  Road 1: 9.45 meters
+  Road 2: 4.40 meters
+  Road 3: 0.00 meters
+
+Frame 76:
+  Road 1: 10.35 meters
+  Road 2: 4.22 meters
+  Road 3: 0.00 meters
+
+Frame 77:
+  Road 1: 0.00 meters
+  Road 2: 4.30 meters
+  Road 3: 0.00 meters
+
+Frame 78:
+  Road 1: 0.00 meters
+  Road 2: 2.90 meters
+  Road 3: 0.00 meters
+
+Frame 79:
+  Road 1: 8.31 meters
+  Road 2: 2.85 meters
+  Road 3: 0.00 meters
+
+Frame 80:
+  Road 1: 8.50 meters
+  Road 2: 2.75 meters
+  Road 3: 0.00 meters
+
+Frame 81:
+  Road 1: 7.45 meters
+  Road 2: 2.95 meters
+  Road 3: 0.00 meters
+
+Frame 82:
+  Road 1: 6.50 meters
+  Road 2: 2.95 meters
+  Road 3: 0.00 meters
+
+Frame 83:
+  Road 1: 5.95 meters
+  Road 2: 2.90 meters
+  Road 3: 0.00 meters
+
+Frame 84:
+  Road 1: 0.00 meters
+  Road 2: 3.05 meters
+  Road 3: 0.00 meters
+
+Frame 85:
+  Road 1: 10.24 meters
+  Road 2: 2.95 meters
+  Road 3: 0.00 meters
+
+Frame 86:
+  Road 1: 10.05 meters
+  Road 2: 3.61 meters
+  Road 3: 0.00 meters
+
+Frame 87:
+  Road 1: 10.25 meters
+  Road 2: 3.50 meters
+  Road 3: 0.00 meters
+
+Frame 88:
+  Road 1: 0.00 meters
+  Road 2: 2.75 meters
+  Road 3: 0.00 meters
+
+Frame 89:
+  Road 1: 0.00 meters
+  Road 2: 2.50 meters
+  Road 3: 0.00 meters
+
+Frame 90:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 91:
+  Road 1: 2.02 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 92:
+  Road 1: 0.00 meters
+  Road 2: 2.40 meters
+  Road 3: 0.00 meters
+
+Frame 93:
+  Road 1: 2.08 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 94:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 95:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 96:
+  Road 1: 0.81 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 97:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 98:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 99:
+  Road 1: 3.10 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 100:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 101:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 102:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 103:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 104:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 105:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 106:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 107:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 108:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 109:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 110:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 111:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 112:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 113:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 114:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 115:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 116:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 117:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 118:
+  Road 1: 12.27 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 119:
+  Road 1: 0.00 meters
+  Road 2: 1.15 meters
+  Road 3: 0.00 meters
+
+Frame 120:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 121:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 122:
+  Road 1: 0.00 meters
+  Road 2: 0.90 meters
+  Road 3: 0.00 meters
+
+Frame 123:
+  Road 1: 0.00 meters
+  Road 2: 1.60 meters
+  Road 3: 0.00 meters
+
+Frame 124:
+  Road 1: 0.00 meters
+  Road 2: 1.60 meters
+  Road 3: 0.00 meters
+
+Frame 125:
+  Road 1: 0.00 meters
+  Road 2: 0.91 meters
+  Road 3: 0.00 meters
+
+Frame 126:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 127:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 128:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 129:
+  Road 1: 5.40 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 130:
+  Road 1: 5.49 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 131:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 132:
+  Road 1: 5.91 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 133:
+  Road 1: 5.94 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 134:
+  Road 1: 6.63 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 135:
+  Road 1: 6.10 meters
+  Road 2: 2.10 meters
+  Road 3: 0.00 meters
+
+Frame 136:
+  Road 1: 6.42 meters
+  Road 2: 1.90 meters
+  Road 3: 0.00 meters
+
+Frame 137:
+  Road 1: 6.42 meters
+  Road 2: 1.70 meters
+  Road 3: 0.00 meters
+
+Frame 138:
+  Road 1: 6.88 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 139:
+  Road 1: 6.13 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 140:
+  Road 1: 6.88 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 141:
+  Road 1: 4.16 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 142:
+  Road 1: 4.21 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 143:
+  Road 1: 6.22 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 144:
+  Road 1: 6.31 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 145:
+  Road 1: 6.12 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 146:
+  Road 1: 6.27 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 147:
+  Road 1: 6.05 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 148:
+  Road 1: 6.05 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 149:
+  Road 1: 6.05 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 150:
+  Road 1: 6.10 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 151:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 152:
+  Road 1: 6.35 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 153:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 154:
+  Road 1: 12.82 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 155:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 156:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 157:
+  Road 1: 12.66 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 158:
+  Road 1: 12.71 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 159:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 160:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 161:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 162:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 163:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 164:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 165:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 166:
+  Road 1: 6.90 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 167:
+  Road 1: 6.90 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 168:
+  Road 1: 6.90 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 169:
+  Road 1: 6.90 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 170:
+  Road 1: 6.85 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 171:
+  Road 1: 6.85 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 172:
+  Road 1: 13.11 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 173:
+  Road 1: 6.80 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 174:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 175:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 176:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 177:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 178:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 179:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 180:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 181:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 182:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 183:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 184:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 185:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 186:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 187:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 188:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 189:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 190:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 191:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 192:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 193:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 194:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 195:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 196:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 197:
+  Road 1: 2.36 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 198:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 199:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 200:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 201:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 202:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 203:
+  Road 1: 3.30 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 204:
+  Road 1: 3.15 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 205:
+  Road 1: 3.55 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 206:
+  Road 1: 3.50 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 207:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 208:
+  Road 1: 3.35 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 209:
+  Road 1: 3.35 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 210:
+  Road 1: 3.45 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 211:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 212:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 213:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 214:
+  Road 1: 3.91 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 215:
+  Road 1: 3.71 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 216:
+  Road 1: 3.26 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 217:
+  Road 1: 3.25 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 218:
+  Road 1: 3.51 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 219:
+  Road 1: 3.35 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 220:
+  Road 1: 4.35 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 221:
+  Road 1: 5.05 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 222:
+  Road 1: 3.85 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 223:
+  Road 1: 3.66 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 224:
+  Road 1: 3.80 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 225:
+  Road 1: 5.21 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 226:
+  Road 1: 5.41 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 227:
+  Road 1: 5.41 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 228:
+  Road 1: 4.75 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 229:
+  Road 1: 4.60 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 230:
+  Road 1: 4.60 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 231:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 232:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 233:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 234:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 235:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 236:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 237:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 238:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 239:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 240:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 241:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 242:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 243:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 244:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 245:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 246:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 247:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 248:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 249:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 250:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 251:
+  Road 1: 0.27 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 252:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 253:
+  Road 1: 1.25 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 254:
+  Road 1: 1.35 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 255:
+  Road 1: 1.65 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 256:
+  Road 1: 1.35 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 257:
+  Road 1: 1.65 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 258:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 259:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 1.48 meters
+
+Frame 260:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 261:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 262:
+  Road 1: 2.15 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 263:
+  Road 1: 2.45 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 264:
+  Road 1: 3.15 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 265:
+  Road 1: 2.50 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 266:
+  Road 1: 2.75 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 267:
+  Road 1: 2.05 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 268:
+  Road 1: 2.70 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 269:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 270:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 271:
+  Road 1: 2.95 meters
+  Road 2: 0.00 meters
+  Road 3: 6.48 meters
+
+Frame 272:
+  Road 1: 3.40 meters
+  Road 2: 0.00 meters
+  Road 3: 6.48 meters
+
+Frame 273:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.10 meters
+
+Frame 274:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 275:
+  Road 1: 1.60 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 276:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 6.04 meters
+
+Frame 277:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 278:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 5.89 meters
+
+Frame 279:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 5.78 meters
+
+Frame 280:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 5.73 meters
+
+Frame 281:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 5.79 meters
+
+Frame 282:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 283:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 5.48 meters
+
+Frame 284:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 285:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 286:
+  Road 1: 0.00 meters
+  Road 2: 3.50 meters
+  Road 3: 0.00 meters
+
+Frame 287:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 288:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 289:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 290:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 291:
+  Road 1: 5.73 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 292:
+  Road 1: 5.82 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 293:
+  Road 1: 4.18 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 294:
+  Road 1: 5.71 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 295:
+  Road 1: 4.41 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 296:
+  Road 1: 4.74 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 297:
+  Road 1: 4.49 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 298:
+  Road 1: 4.74 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 299:
+  Road 1: 4.51 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 300:
+  Road 1: 5.40 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 301:
+  Road 1: 2.96 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 302:
+  Road 1: 4.87 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 303:
+  Road 1: 2.94 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 304:
+  Road 1: 2.96 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 305:
+  Road 1: 2.93 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 306:
+  Road 1: 3.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 307:
+  Road 1: 3.69 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 308:
+  Road 1: 2.98 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 309:
+  Road 1: 2.54 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 310:
+  Road 1: 3.80 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 311:
+  Road 1: 3.90 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 312:
+  Road 1: 2.48 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 313:
+  Road 1: 3.59 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 314:
+  Road 1: 5.47 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 315:
+  Road 1: 3.61 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 316:
+  Road 1: 3.29 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 317:
+  Road 1: 3.29 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 318:
+  Road 1: 3.22 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 319:
+  Road 1: 3.11 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 320:
+  Road 1: 2.50 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 321:
+  Road 1: 3.08 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 322:
+  Road 1: 6.24 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 323:
+  Road 1: 6.19 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 324:
+  Road 1: 6.09 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 325:
+  Road 1: 6.03 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 326:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 327:
+  Road 1: 5.31 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 328:
+  Road 1: 2.55 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 329:
+  Road 1: 5.55 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 330:
+  Road 1: 5.53 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 331:
+  Road 1: 5.77 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 332:
+  Road 1: 5.75 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 333:
+  Road 1: 5.12 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 334:
+  Road 1: 6.15 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 335:
+  Road 1: 5.84 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 336:
+  Road 1: 5.50 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 337:
+  Road 1: 5.75 meters
+  Road 2: 2.64 meters
+  Road 3: 0.00 meters
+
+Frame 338:
+  Road 1: 5.75 meters
+  Road 2: 2.67 meters
+  Road 3: 0.00 meters
+
+Frame 339:
+  Road 1: 6.52 meters
+  Road 2: 2.63 meters
+  Road 3: 0.00 meters
+
+Frame 340:
+  Road 1: 6.37 meters
+  Road 2: 2.67 meters
+  Road 3: 0.00 meters
+
+Frame 341:
+  Road 1: 6.39 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 342:
+  Road 1: 0.89 meters
+  Road 2: 2.58 meters
+  Road 3: 0.00 meters
+
+Frame 343:
+  Road 1: 0.36 meters
+  Road 2: 2.66 meters
+  Road 3: 0.00 meters
+
+Frame 344:
+  Road 1: 0.00 meters
+  Road 2: 2.58 meters
+  Road 3: 0.00 meters
+
+Frame 345:
+  Road 1: 3.74 meters
+  Road 2: 2.60 meters
+  Road 3: 0.00 meters
+
+Frame 346:
+  Road 1: 2.91 meters
+  Road 2: 2.64 meters
+  Road 3: 0.00 meters
+
+Frame 347:
+  Road 1: 2.99 meters
+  Road 2: 2.57 meters
+  Road 3: 0.00 meters
+
+Frame 348:
+  Road 1: 3.00 meters
+  Road 2: 2.51 meters
+  Road 3: 0.00 meters
+
+Frame 349:
+  Road 1: 0.58 meters
+  Road 2: 2.57 meters
+  Road 3: 0.00 meters
+
+Frame 350:
+  Road 1: 0.00 meters
+  Road 2: 2.57 meters
+  Road 3: 0.00 meters
+
+Frame 351:
+  Road 1: 0.00 meters
+  Road 2: 2.57 meters
+  Road 3: 0.00 meters
+
+Frame 352:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 353:
+  Road 1: 0.00 meters
+  Road 2: 2.57 meters
+  Road 3: 0.00 meters
+
+Frame 354:
+  Road 1: 1.02 meters
+  Road 2: 2.73 meters
+  Road 3: 0.00 meters
+
+Frame 355:
+  Road 1: 0.00 meters
+  Road 2: 2.86 meters
+  Road 3: 0.00 meters
+
+Frame 356:
+  Road 1: 0.00 meters
+  Road 2: 2.77 meters
+  Road 3: 0.00 meters
+
+Frame 357:
+  Road 1: 3.43 meters
+  Road 2: 2.74 meters
+  Road 3: 0.00 meters
+
+Frame 358:
+  Road 1: 3.32 meters
+  Road 2: 2.64 meters
+  Road 3: 0.00 meters
+
+Frame 359:
+  Road 1: 3.23 meters
+  Road 2: 2.57 meters
+  Road 3: 0.00 meters
+
+Frame 360:
+  Road 1: 3.44 meters
+  Road 2: 2.66 meters
+  Road 3: 0.00 meters
+
+Frame 361:
+  Road 1: 3.44 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 362:
+  Road 1: 3.15 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 363:
+  Road 1: 3.01 meters
+  Road 2: 2.82 meters
+  Road 3: 0.00 meters
+
+Frame 364:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 365:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 366:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 367:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 368:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 369:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 370:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 371:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 372:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 373:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 374:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 375:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 376:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 377:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 378:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 379:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 380:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 381:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 382:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 383:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 384:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 385:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 386:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 387:
+  Road 1: 2.57 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 388:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 389:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 390:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 391:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 392:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 393:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 394:
+  Road 1: 4.91 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 395:
+  Road 1: 4.92 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 396:
+  Road 1: 4.86 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 397:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 398:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 399:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 400:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 401:
+  Road 1: 5.40 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 402:
+  Road 1: 5.49 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 403:
+  Road 1: 5.51 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 404:
+  Road 1: 5.42 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 405:
+  Road 1: 5.36 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 406:
+  Road 1: 5.66 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 407:
+  Road 1: 5.72 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 408:
+  Road 1: 5.76 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 409:
+  Road 1: 5.81 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 410:
+  Road 1: 5.86 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 411:
+  Road 1: 5.88 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 412:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 413:
+  Road 1: 5.86 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 414:
+  Road 1: 5.97 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 415:
+  Road 1: 6.07 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 416:
+  Road 1: 6.01 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 417:
+  Road 1: 7.64 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 418:
+  Road 1: 6.08 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 419:
+  Road 1: 7.45 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 420:
+  Road 1: 6.13 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 421:
+  Road 1: 6.23 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 422:
+  Road 1: 6.27 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 423:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 424:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 425:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 426:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 427:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 428:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 429:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 430:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 431:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 432:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 433:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 434:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 435:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 436:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 437:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 438:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 439:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 440:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 2.25 meters
+
+Frame 441:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 2.30 meters
+
+Frame 442:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 443:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 444:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 445:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 446:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 447:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 448:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 449:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 450:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 451:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 452:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 453:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 454:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 455:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 456:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 457:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 458:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 459:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 460:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 461:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 462:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 463:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 464:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 465:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 466:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 467:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 468:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 469:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 470:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 471:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 2.80 meters
+
+Frame 472:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 473:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 474:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 475:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 476:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 477:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 478:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 479:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 480:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 481:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 482:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 483:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 484:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 485:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 486:
+  Road 1: 2.17 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 487:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 488:
+  Road 1: 3.05 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 489:
+  Road 1: 3.05 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 490:
+  Road 1: 3.10 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 491:
+  Road 1: 5.56 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 492:
+  Road 1: 5.40 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 493:
+  Road 1: 5.38 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 494:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 495:
+  Road 1: 3.21 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 496:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 497:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 498:
+  Road 1: 2.80 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 499:
+  Road 1: 3.25 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 500:
+  Road 1: 3.05 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 501:
+  Road 1: 2.65 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 502:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 503:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 504:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 505:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 506:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 507:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 508:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 509:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 510:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 511:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 2.72 meters
+
+Frame 512:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 513:
+  Road 1: 3.62 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 514:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 2.05 meters
+
+Frame 515:
+  Road 1: 3.31 meters
+  Road 2: 0.00 meters
+  Road 3: 2.12 meters
+
+Frame 516:
+  Road 1: 3.21 meters
+  Road 2: 0.00 meters
+  Road 3: 2.06 meters
+
+Frame 517:
+  Road 1: 3.32 meters
+  Road 2: 1.95 meters
+  Road 3: 0.00 meters
+
+Frame 518:
+  Road 1: 3.28 meters
+  Road 2: 0.00 meters
+  Road 3: 2.41 meters
+
+Frame 519:
+  Road 1: 3.17 meters
+  Road 2: 0.00 meters
+  Road 3: 5.90 meters
+
+Frame 520:
+  Road 1: 3.32 meters
+  Road 2: 2.00 meters
+  Road 3: 0.00 meters
+
+Frame 521:
+  Road 1: 4.02 meters
+  Road 2: 1.15 meters
+  Road 3: 0.00 meters
+
+Frame 522:
+  Road 1: 3.81 meters
+  Road 2: 0.00 meters
+  Road 3: 2.09 meters
+
+Frame 523:
+  Road 1: 4.92 meters
+  Road 2: 0.00 meters
+  Road 3: 2.05 meters
+
+Frame 524:
+  Road 1: 5.41 meters
+  Road 2: 0.00 meters
+  Road 3: 1.91 meters
+
+Frame 525:
+  Road 1: 3.82 meters
+  Road 2: 0.00 meters
+  Road 3: 1.91 meters
+
+Frame 526:
+  Road 1: 4.84 meters
+  Road 2: 0.00 meters
+  Road 3: 1.74 meters
+
+Frame 527:
+  Road 1: 5.20 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 528:
+  Road 1: 4.79 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 529:
+  Road 1: 4.82 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 530:
+  Road 1: 3.61 meters
+  Road 2: 0.00 meters
+  Road 3: 1.59 meters
+
+Frame 531:
+  Road 1: 3.51 meters
+  Road 2: 0.00 meters
+  Road 3: 1.52 meters
+
+Frame 532:
+  Road 1: 1.91 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 533:
+  Road 1: 2.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 534:
+  Road 1: 1.98 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 535:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 1.32 meters
+
+Frame 536:
+  Road 1: 2.18 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 537:
+  Road 1: 2.21 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 538:
+  Road 1: 6.33 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 539:
+  Road 1: 6.29 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 540:
+  Road 1: 6.23 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 541:
+  Road 1: 6.29 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 542:
+  Road 1: 6.24 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 543:
+  Road 1: 6.19 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 544:
+  Road 1: 6.22 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 545:
+  Road 1: 6.29 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 546:
+  Road 1: 6.22 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 547:
+  Road 1: 6.28 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 548:
+  Road 1: 6.28 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 549:
+  Road 1: 6.49 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 550:
+  Road 1: 6.44 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 551:
+  Road 1: 6.53 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 552:
+  Road 1: 6.29 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 553:
+  Road 1: 6.46 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 554:
+  Road 1: 6.50 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 555:
+  Road 1: 6.60 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 556:
+  Road 1: 7.06 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 557:
+  Road 1: 7.06 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 558:
+  Road 1: 1.35 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 559:
+  Road 1: 1.45 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 560:
+  Road 1: 1.35 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 561:
+  Road 1: 1.30 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 562:
+  Road 1: 7.64 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 563:
+  Road 1: 7.74 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 564:
+  Road 1: 1.92 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 565:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 566:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 567:
+  Road 1: 1.78 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 568:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 569:
+  Road 1: 3.36 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 570:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 571:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 572:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 573:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 574:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 575:
+  Road 1: 6.48 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 576:
+  Road 1: 6.70 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 577:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 578:
+  Road 1: 7.59 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 579:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 580:
+  Road 1: 6.74 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 581:
+  Road 1: 6.52 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 582:
+  Road 1: 6.42 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 583:
+  Road 1: 6.47 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 584:
+  Road 1: 6.40 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 585:
+  Road 1: 6.53 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 586:
+  Road 1: 5.72 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 587:
+  Road 1: 6.52 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 588:
+  Road 1: 6.79 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 589:
+  Road 1: 6.78 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 590:
+  Road 1: 6.67 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 591:
+  Road 1: 5.51 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 592:
+  Road 1: 6.69 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 593:
+  Road 1: 6.69 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 594:
+  Road 1: 6.74 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 595:
+  Road 1: 6.74 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 596:
+  Road 1: 6.59 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 597:
+  Road 1: 6.53 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 598:
+  Road 1: 6.58 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 599:
+  Road 1: 6.48 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 600:
+  Road 1: 6.48 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 601:
+  Road 1: 6.38 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 602:
+  Road 1: 6.33 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 603:
+  Road 1: 6.27 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 604:
+  Road 1: 6.02 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 605:
+  Road 1: 6.02 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 606:
+  Road 1: 5.96 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 607:
+  Road 1: 5.86 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 608:
+  Road 1: 5.86 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 609:
+  Road 1: 5.17 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 610:
+  Road 1: 0.00 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 611:
+  Road 1: 4.29 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 612:
+  Road 1: 6.01 meters
+  Road 2: 0.00 meters
+  Road 3: 3.70 meters
+
+Frame 613:
+  Road 1: 6.00 meters
+  Road 2: 0.00 meters
+  Road 3: 3.60 meters
+
+Frame 614:
+  Road 1: 6.01 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 615:
+  Road 1: 4.59 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 616:
+  Road 1: 4.63 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 617:
+  Road 1: 4.63 meters
+  Road 2: 0.00 meters
+  Road 3: 0.00 meters
+
+Frame 1:
+  Road 1: 35.04 meters
+  Road 2: 77.05 meters
+  Road 3: 0.00 meters
+
+Frame 2:
+  Road 1: 34.97 meters
+  Road 2: 77.87 meters
+  Road 3: 0.00 meters
+
+Frame 3:
+  Road 1: 34.93 meters
+  Road 2: 78.52 meters
+  Road 3: 0.00 meters
+
+Frame 4:
+  Road 1: 35.01 meters
+  Road 2: 78.80 meters
+  Road 3: 0.00 meters
+
+Frame 5:
+  Road 1: 34.87 meters
+  Road 2: 78.73 meters
+  Road 3: 0.00 meters
+
+Frame 6:
+  Road 1: 34.65 meters
+  Road 2: 79.02 meters
+  Road 3: 0.00 meters
+
+Frame 7:
+  Road 1: 34.60 meters
+  Road 2: 79.66 meters
+  Road 3: 0.00 meters
+
+Frame 8:
+  Road 1: 34.52 meters
+  Road 2: 79.84 meters
+  Road 3: 0.00 meters
+
+Frame 9:
+  Road 1: 34.70 meters
+  Road 2: 79.84 meters
+  Road 3: 0.00 meters
+
+Frame 10:
+  Road 1: 34.60 meters
+  Road 2: 80.86 meters
+  Road 3: 0.00 meters
+
+Frame 11:
+  Road 1: 34.43 meters
+  Road 2: 80.98 meters
+  Road 3: 0.00 meters
+
+Frame 12:
+  Road 1: 34.12 meters
+  Road 2: 81.39 meters
+  Road 3: 0.00 meters
+
+Frame 13:
+  Road 1: 34.35 meters
+  Road 2: 82.01 meters
+  Road 3: 0.00 meters
+
+Frame 14:
+  Road 1: 34.29 meters
+  Road 2: 81.51 meters
+  Road 3: 0.00 meters
+
+Frame 15:
+  Road 1: 34.18 meters
+  Road 2: 81.80 meters
+  Road 3: 0.00 meters
+
+Frame 16:
+  Road 1: 34.14 meters
+  Road 2: 81.82 meters
+  Road 3: 0.00 meters
+
+Frame 17:
+  Road 1: 34.23 meters
+  Road 2: 81.79 meters
+  Road 3: 0.00 meters
+
+Frame 18:
+  Road 1: 33.95 meters
+  Road 2: 82.32 meters
+  Road 3: 0.00 meters
+
+Frame 19:
+  Road 1: 33.78 meters
+  Road 2: 83.17 meters
+  Road 3: 0.00 meters
+
+Frame 20:
+  Road 1: 33.79 meters
+  Road 2: 83.20 meters
+  Road 3: 0.00 meters
+
+Frame 21:
+  Road 1: 33.87 meters
+  Road 2: 83.69 meters
+  Road 3: 0.00 meters
+
